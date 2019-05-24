@@ -1,0 +1,125 @@
+{
+	sales:{[
+		{
+		 "name":"Lissandra",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Aurelion Sol",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
+		 "oldprice":"975",
+		 "newprice":"438"
+		},
+		{
+		 "name":"Blitzcrank",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
+		 "oldprice":"790",
+		 "newprice":"355"
+		},
+		{
+		 "name":"Nidalee",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg",
+		 "oldprice":"790",
+		 "newprice":"355"
+		},
+		{
+		 "name":"Master Yi",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_0.jpg",
+		 "oldprice":"260",
+		 "newprice":"130"
+		},
+		{
+		 "name":"Eternum Cassiopeia",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_8.jpg",
+		 "oldprice":"1350",
+		 "newprice":"944"
+		},
+		{
+		 "name":"Dark Waters Vladimir",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_8.jpg",
+		 "oldprice":"1350",
+		 "newprice":"944"
+		},
+		{
+		 "name":"Knockout Lee Sin",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_10.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Haunted Zyra",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_1.jpg",
+		 "oldprice":"1350",
+		 "newprice":"607"
+		},
+		{
+		 "name":"Amethyst Ashe",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_5.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Blood Moon Akali",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_5.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Overlord Malzahar",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_4.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Blight Crystal Varus",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_1.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Blood Moon Yasuo",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_3.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Order of the Lotus Irelia",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_5.jpg",
+		 "oldprice":"750",
+		 "newprice":"412"
+		},
+		{
+		 "name":"Lord Darius",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_1.jpg",
+		 "oldprice":"975",
+		 "newprice":"390"
+		},
+		{
+		 "name":"Dark Valkyrie Diana",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_1.jpg",
+		 "oldprice":"975",
+		 "newprice":"390"
+		},
+		{
+		 "name":"Dragonslayer Jarvan IV",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_4.jpg",
+		 "oldprice":"750",
+		 "newprice":"337"
+		},
+		{
+		 "name":"Pharaoh Nasus",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_2.jpg",
+		 "oldprice":"520",
+		 "newprice":"260"
+		},
+		{
+		 "name":"Valkyrie Leona",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_1.jpg",
+		 "oldprice":"520",
+		 "newprice":"233"
+		},
+	]},
+	"period":"May 20th, 2019 - May 27th, 2019"
+}
