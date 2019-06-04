@@ -110,7 +110,7 @@
 		},
 		{
 		 "name":"High Noon Thresh",
-		 "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_6.jpg",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_6.jpg",
 		 "oldprice":"1350",
 		 "newprice":"1012"
 		},
