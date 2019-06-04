@@ -2,12 +2,6 @@
 {
 	sales:[
 		{
-		 "name":"Little Demon Tristana",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/82/Tristana_LittleDemonSkin.jpg/revision/latest?cb=20190514212827",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
 		 "name":"Dark Cosmic Jhin",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5c/Jhin_DarkCosmicSkin.jpg/revision/latest?cb=20190529195929",
 		 "oldprice":"",
