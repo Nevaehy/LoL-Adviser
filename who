@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Kindred",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_0.jpg",
+		 "name":"Soraka",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_0.jpg",
+		 "oldprice":"260",
+		 "newprice":"130"
+		},
+		{
+		 "name":"Kayle",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_0.jpg",
+		 "oldprice":"260",
+		 "newprice":"169"
+		},
+		{
+		 "name":"Kalista",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_0.jpg",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Rek'Sai",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_0.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Taric",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_0.jpg",
-		 "oldprice":"585",
-		 "newprice":"234"
-		},
-		{
-		 "name":"Shyvana",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg",
+		 "name":"Galio",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg",
 		 "oldprice":"790",
-		 "newprice":"316"
+		 "newprice":"395"
 		},
 		{
-		 "name":"Quinn",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg",
+		 "name":"Brand",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
 		 "oldprice":"880",
-		 "newprice":"484"
+		 "newprice":"572"
 		},
 		{
-		 "name":"Popstar Ahri",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_4.jpg",
+		 "name":"Frostfire Annie",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_5.jpg",
 		 "oldprice":"975",
-		 "newprice":"487"
+		 "newprice":"682"
 		},
 		{
-		 "name":"Marauder Alistar",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_8.jpg",
-		 "oldprice":"750",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Bandit Sivir",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_4.jpg",
-		 "oldprice":"750",
-		 "newprice":"375"
-		},
-		{
-		 "name":"General Wukong",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_2.jpg",
-		 "oldprice":"750",
-		 "newprice":"337"
-		},
-		{
-		 "name":"Shurima Desert Zilean",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_3.jpg",
-		 "oldprice":"975",
-		 "newprice":"633"
-		},
-		{
-		 "name":"Boneclaw Shyvana",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_2.jpg",
-		 "oldprice":"520",
-		 "newprice":"233"
-		},
-		{
-		 "name":"Sand Wraith Pyke",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_1.jpg",
+		 "name":"Firecracker Jinx",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_2.jpg",
 		 "oldprice":"1350",
 		 "newprice":"675"
 		},
 		{
-		 "name":"Woad Ashe",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_3.jpg",
-		 "oldprice":"520",
+		 "name":"Program Lissandra",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_3.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Odyssey Malphite",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_16.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Star Guardian Poppy",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_7.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Void Bringer Illaoi",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_1.jpg",
+		 "oldprice":"1350",
+		 "newprice":"607"
+		},
+		{
+		 "name":"Frozen Terror Nocturne",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_1.jpg",
+		 "oldprice":"975",
+		 "newprice":"585"
+		},
+		{
+		 "name":"Redeemed Riven",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_1.jpg",
+		 "oldprice":"975",
+		 "newprice":"536"
+		},
+		{
+		 "name":"Harbinger Kassadin",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_4.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Asylum Shaco",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_5.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Iron Solari Leona",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_3.jpg",
+		 "oldprice":"975",
 		 "newprice":"390"
 		},
 		{
-		 "name":"Volcanic Wukong",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_1.jpg",
+		 "name":"Shockblade Zed",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_1.jpg",
 		 "oldprice":"975",
-		 "newprice":"487"
+		 "newprice":"390"
 		},
 		{
-		 "name":"PROJECT: Lucian",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_6.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Death Blossom Kha'Zix",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_3.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Samurai Yi",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_4.jpg",
-		 "oldprice":"520",
-		 "newprice":"260"
-		},
-		{
-		 "name":"Mercenary Katarina",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_1.jpg",
-		 "oldprice":"520",
-		 "newprice":"312"
-		},
-		{
-		 "name":"Marauder Olaf",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_5.jpg",
+		 "name":"Nightraven Fiora",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_2.jpg",
 		 "oldprice":"750",
 		 "newprice":"375"
 		},
 		{
-		 "name":"Ionia Master Yi",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_4.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
+		 "name":"High Noon Thresh",
+		 "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_6.jpg",
+		 "oldprice":"1350",
+		 "newprice":"1012"
+		},
+		{
+		 "name":"Star Guardian Janna",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_7.jpg",
+		 "oldprice":"1350",
+		 "newprice":"944"
 		}
 	],
-	"period":"May 28th, 2019 - June 3th, 2019"
+	"period":"June 3rd, 2019 - June 10th, 2019"
 }
