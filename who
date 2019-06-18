@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Trundle",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg",
+		 "name":"Nocturne",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg",
 		 "oldprice":"880",
 		 "newprice":"352"
 		},
 		{
-		 "name":"Heimerdinger",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg",
-		 "oldprice":"390",
-		 "newprice":"395"
+		 "name":"Gangplank",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg",
+		 "oldprice":"790",
+		 "newprice":"355"
 		},
 		{
-		 "name":"Cassiopeia",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg",
-		 "oldprice":"880",
-		 "newprice":"440"
-		},
-		{
-		 "name":"Rakan",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_0.jpg",
+		 "name":"Lucian",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Kha'Zix",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg",
+		 "name":"Kayn",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Xerath",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg",
 		 "oldprice":"880",
 		 "newprice":"616"
 		},
 		{
-		 "name":"Pool Party Rek'Sai",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_2.jpg",
+		 "name":"Blood Moon Aatrox",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_7.jpg",
 		 "oldprice":"1350",
-		 "newprice":"607"
+		 "newprice":"975"
 		},
 		{
-		 "name":"Forsaken Jayce",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_3.jpg",
+		 "name":"Lunar Wraith Sylas",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_1.jpg",
 		 "oldprice":"1350",
-		 "newprice":"607"
+		 "newprice":"975"
 		},
 		{
-		 "name":"Debonair Jayce",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_2.jpg",
+		 "name":"Pool Party Caitlyn",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_13.jpg",
+		 "oldprice":"1350",
+		 "newprice":"944"
+		},
+		{
+		 "name":"Omega Squad Fizz",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_10.jpg",
+		 "oldprice":"1350",
+		 "newprice":"742"
+		},
+		{
+		 "name":"Mecha Aurelion Sol",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_2.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Pool Party Taric",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_4.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Arclight Vel'Koz",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_2.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Odyssey Yasuo",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_10.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Piltover Customs Blitzcrank",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_4.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Sultan Gangplank",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_6.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Firefang Warwick",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_6.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Rumble in the Jungle",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_1.jpg",
+		 "oldprice":"975",
+		 "newprice":"438"
+		},
+		{
+		 "name":"Atlantean Syndra",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_2.jpg",
 		 "oldprice":"975",
 		 "newprice":"390"
 		},
 		{
-		 "name":"Frostblade Irelia",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_4.jpg",
+		 "name":"Officer Vi",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_2.jpg",
 		 "oldprice":"975",
 		 "newprice":"390"
 		},
 		{
-		 "name":"Headhunter Master Yi",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_5.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Fisherman Fizz",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_3.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Dragonwing Corki",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_6.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Mythic Cassiopeia",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_3.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"AstroNautilus",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_3.jpg",
-		 "oldprice":"1350",
-		 "newprice":"540"
-		},
-		{
-		 "name":"Boom Boom Blitzcrank",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_3.jpg",
+		 "name":"Siren Cassiopeia",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_2.jpg",
 		 "oldprice":"520",
-		 "newprice":"260"
-		},
-		{
-		 "name":"Runeborn Xerath",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_1.jpg",
-		 "oldprice":"750",
-		 "newprice":"300"
-		},
-		{
-		 "name":"Musketeer Twisted Fate",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_6.jpg",
-		 "oldprice":"750",
-		 "newprice":"337"
-		},
-		{
-		 "name":"Cutthroat Graves",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_6.jpg",
-		 "oldprice":"750",
-		 "newprice":"337"
-		},
-		{
-		 "name":"Corsair Quinn",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_3.jpg",
-		 "oldprice":"750",
-		 "newprice":"375"
-		},
-		{
-		 "name":"Dragonslayer Vayne",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_3.jpg",
-		 "oldprice":"975",
-		 "newprice":"390"
+		 "newprice":"338"
 		}
 	],
-	"period":"June 10rd, 2019 - June 17th, 2019"
+	"period":"June 17th, 2019 - June 24th, 2019"
 }
