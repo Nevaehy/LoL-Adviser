@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Nocturne",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg",
-		 "oldprice":"880",
-		 "newprice":"352"
-		},
-		{
-		 "name":"Gangplank",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg",
+		 "name":"Sona",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg",
 		 "oldprice":"790",
-		 "newprice":"355"
+		 "newprice":"316"
 		},
 		{
-		 "name":"Lucian",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
+		 "name":"Tristana",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_0.jpg",
+		 "oldprice":"585",
+		 "newprice":"351"
 		},
 		{
-		 "name":"Kayn",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Xerath",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg",
+		 "name":"Wukong",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Wukong_0.jpg",
 		 "oldprice":"880",
-		 "newprice":"616"
+		 "newprice":"395"
 		},
 		{
-		 "name":"Blood Moon Aatrox",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_7.jpg",
-		 "oldprice":"1350",
-		 "newprice":"975"
-		},
-		{
-		 "name":"Lunar Wraith Sylas",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_1.jpg",
-		 "oldprice":"1350",
-		 "newprice":"975"
-		},
-		{
-		 "name":"Pool Party Caitlyn",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_13.jpg",
-		 "oldprice":"1350",
-		 "newprice":"944"
-		},
-		{
-		 "name":"Omega Squad Fizz",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_10.jpg",
-		 "oldprice":"1350",
-		 "newprice":"742"
-		},
-		{
-		 "name":"Mecha Aurelion Sol",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_2.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Pool Party Taric",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_4.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Arclight Vel'Koz",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_2.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Odyssey Yasuo",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_10.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Piltover Customs Blitzcrank",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_4.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Sultan Gangplank",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_6.jpg",
+		 "name":"Xayah",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_0.jpg",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Firefang Warwick",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_6.jpg",
+		 "name":"Ekko",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Rumble in the Jungle",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_1.jpg",
-		 "oldprice":"975",
-		 "newprice":"438"
+		 "name":"Arclight Yorick",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_3.jpg",
+		 "oldprice":"1350",
+		 "newprice":"877"
 		},
 		{
-		 "name":"Atlantean Syndra",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_2.jpg",
+		 "name":"Mafia Braum",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_11.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Arcade Hecarim",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_4.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Baker Pantheon",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_8.jpg",
+		 "oldprice":"975",
+		 "newprice":"633"
+		},
+		{
+		 "name":"Pentakill Yorick",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_2.jpg",
+		 "oldprice":"975",
+		 "newprice":"633"
+		},
+		{
+		 "name":"Scorched Earth Xerath",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_3.jpg",
+		 "oldprice":"1350",
+		 "newprice":"540"
+		},
+		{
+		 "name":"Acolyte Lee Sin",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_2.jpg",
+		 "oldprice":"750",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Warring Kingdoms Nidalee",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_7.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Darkflame Shyvana",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_3.jpg",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Death Blossom Elise",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_1.jpg",
 		 "oldprice":"975",
 		 "newprice":"390"
 		},
 		{
-		 "name":"Officer Vi",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_2.jpg",
-		 "oldprice":"975",
-		 "newprice":"390"
+		 "name":"Jayce Brighthammer",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_4.jpg",
+		 "oldprice":"750",
+		 "newprice":"375"
 		},
 		{
-		 "name":"Siren Cassiopeia",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_2.jpg",
+		 "name":"Academy Vladimir",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_7.jpg",
+		 "oldprice":"750",
+		 "newprice":"375"
+		},
+		{
+		 "name":"Desperada Cassiopeia",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_1.jpg",
 		 "oldprice":"520",
-		 "newprice":"338"
+		 "newprice":"260"
+		},
+		{
+		 "name":"Commando Jarvan IV",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_1.jpg",
+		 "oldprice":"520",
+		 "newprice":"233"
+		},
+		{
+		 "name":"Golden Alistar",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_2.jpg",
+		 "oldprice":"390",
+		 "newprice":"175"
 		}
 	],
-	"period":"June 17th, 2019 - June 24th, 2019"
+	"period":"June 24th, 2019 - July 1st, 2019"
 }
