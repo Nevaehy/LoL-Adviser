@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Braum",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
+		 "name":"Ornn",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg",
 		 "oldprice":"975",
-		 "newprice":"487"
+		 "newprice":"585"
 		},
 		{
-		 "name":"Yasuo",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Zyra",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_0.jpg",
+		 "name":"Riven",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg",
 		 "oldprice":"880",
-		 "newprice":"484"
+		 "newprice":"440"
 		},
 		{
-		 "name":"Nautilus",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg",
+		 "name":"Yorick",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg",
 		 "oldprice":"880",
-		 "newprice":"352"
+		 "newprice":"440"
 		},
 		{
-		 "name":"Nasus",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg",
+		 "name":"Rammus",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg",
 		 "oldprice":"585",
-		 "newprice":"234"
+		 "newprice":"292"
 		},
 		{
-		 "name":"Arcade Ahri",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_7.jpg",
+		 "name":"Sion",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg",
+		 "oldprice":"585",
+		 "newprice":"263"
+		},
+		{
+		 "name":"Blood Moon Pyke",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_9.jpg",
 		 "oldprice":"1350",
-		 "newprice":"810"
+		 "newprice":"975"
 		},
 		{
-		 "name":"Super Galaxy Gnar",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_13.jpg",
+		 "name":"Blood Moon Sivir",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_16.jpg",
 		 "oldprice":"1350",
-		 "newprice":"810"
+		 "newprice":"975"
 		},
 		{
-		 "name":"Arcade Sona",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_5.jpg",
+		 "name":"Dark Star Orianna",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_7.jpg",
 		 "oldprice":"1350",
 		 "newprice":"675"
 		},
 		{
-		 "name":"Jade Fang Cassiopeia",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_4.jpg",
+		 "name":"Academy Ahri",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_6.jpg",
+		 "oldprice":"750",
+		 "newprice":"562"
+		},
+		{
+		 "name":"Oktoberfest Gragas",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_6.jpg",
 		 "oldprice":"975",
-		 "newprice":"633"
+		 "newprice":"536"
 		},
 		{
-		 "name":"Arctic Ops Varus",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_3.jpg",
-		 "oldprice":"1350",
-		 "newprice":"540"
-		},
-		{
-		 "name":"Mecha Malphite",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_6.jpg",
-		 "oldprice":"1350",
-		 "newprice":"540"
-		},
-		{
-		 "name":"Blood Moon Elise",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_3.jpg",
+		 "name":"Primetime Draven",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_3.jpg",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Dragonblade Talon",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_3.jpg",
+		 "name":"Dreadknight Nasus",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_3.jpg",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Guqin Sona",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_4.jpg",
+		 "name":"Warlord Shen",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_5.jpg",
 		 "oldprice":"975",
-		 "newprice":"438"
+		 "newprice":"487"
 		},
 		{
-		 "name":"Silverfang Akali",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_6.jpg",
+		 "name":"Beast Hunter Draven",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_5.jpg",
+		 "oldprice":"750",
+		 "newprice":"412"
+		},
+		{
+		 "name":"Darkrider Sejuani",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_2.jpg",
 		 "oldprice":"975",
 		 "newprice":"390"
 		},
 		{
-		 "name":"Braum Lionheart",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_3.jpg",
+		 "name":"Bard Bard",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_6.jpg",
 		 "oldprice":"750",
 		 "newprice":"375"
 		},
 		{
-		 "name":"Warden Sivir",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_7.jpg",
-		 "oldprice":"750",
-		 "newprice":"375"
+		 "name":"Tango Evelynn",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_3.jpg",
+		 "oldprice":"520",
+		 "newprice":"338"
 		},
 		{
-		 "name":"Worldbreaker Nautilus",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_5.jpg",
-		 "oldprice":"750",
-		 "newprice":"375"
-		},
-		{
-		 "name":"Bandito Fiddlesticks",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_3.jpg",
+		 "name":"Monarch Kog'Maw",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_3.jpg",
 		 "oldprice":"520",
 		 "newprice":"260"
 		},
 		{
-		 "name":"Emumu",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_3.jpg",
+		 "name":"Commando Garen",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_3.jpg",
 		 "oldprice":"520",
-		 "newprice":"260"
+		 "newprice":"233"
+		},
+		{
+		 "name":"Assassin Master Yi",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_1.jpg",
+		 "oldprice":"390",
+		 "newprice":"214"
 		}
 	],
-	"period":"July 1st, 2019 - July 8st, 2019"
+	"period":"July 8th, 2019 - July 15th, 2019"
 }
