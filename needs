@@ -2,6 +2,36 @@
 {
 	sales:[
 		{
+		 "name":"PROJECT Jinx",
+		 "image":"https://wx1.sinaimg.cn/large/006f8wK2gy1g50mi20p7jj31gy0u0u11.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"PROJECT Warwick",
+		 "image":"https://wx4.sinaimg.cn/large/006f8wK2gy1g50mi0u3ecj31ev0u07wi.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"PROJECT Akali",
+		 "image":"https://wx4.sinaimg.cn/large/006f8wK2gy1g50mi0y1naj31ev0u0b2a.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"PROJECT Irelia",
+		 "image":"https://wx1.sinaimg.cn/large/006f8wK2gy1g50mi1f509j31h40u07wk.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"PROJECT Pyke",
+		 "image":"https://wx3.sinaimg.cn/large/006f8wK2gy1g50mi1myswj31ev0u0e83.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
 		 "name":"Demacia Vice Garen",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/00/Garen_DemaciaViceSkin.jpg/revision/latest?cb=20190623173347",
 		 "oldprice":"",
