@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Ornn",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg",
-		 "oldprice":"975",
-		 "newprice":"585"
-		},
-		{
-		 "name":"Riven",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg",
+		 "name":"Maokai",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg",
 		 "oldprice":"880",
-		 "newprice":"440"
+		 "newprice":"572"
 		},
 		{
-		 "name":"Yorick",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg",
+		 "name":"Rengar",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg",
 		 "oldprice":"880",
-		 "newprice":"440"
+		 "newprice":"352"
 		},
 		{
-		 "name":"Rammus",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg",
+		 "name":"Vi",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg",
+		 "oldprice":"880",
+		 "newprice":"352"
+		},
+		{
+		 "name":"Cho'Gath",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
 		 "oldprice":"585",
 		 "newprice":"292"
 		},
 		{
-		 "name":"Sion",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg",
+		 "name":"Tryndamere",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg",
 		 "oldprice":"585",
-		 "newprice":"263"
+		 "newprice":"292"
 		},
 		{
-		 "name":"Blood Moon Pyke",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_9.jpg",
+		 "name":"Headhunter Akali",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_7.jpg",
 		 "oldprice":"1350",
-		 "newprice":"975"
+		 "newprice":"944"
 		},
 		{
-		 "name":"Blood Moon Sivir",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_16.jpg",
+		 "name":"Dragon Master Swain",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_4.jpg",
 		 "oldprice":"1350",
-		 "newprice":"975"
+		 "newprice":"877"
 		},
 		{
-		 "name":"Dark Star Orianna",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_7.jpg",
+		 "name":"Blood Moon Talon",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_5.jpg",
+		 "oldprice":"1350",
+		 "newprice":"877"
+		},
+		{
+		 "name":"Infernal Diana",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_3.jpg",
 		 "oldprice":"1350",
 		 "newprice":"675"
 		},
 		{
-		 "name":"Academy Ahri",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_6.jpg",
-		 "oldprice":"750",
-		 "newprice":"562"
+		 "name":"PROJECT: Ekko",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_3.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
 		},
 		{
-		 "name":"Oktoberfest Gragas",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_6.jpg",
+		 "name":"High Noon Jhin",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_1.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Cosmic Blade Master Yi",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_10.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Super Galaxy Nidalee",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_9.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Enduring Sword Talon",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_12.jpg",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Gladiator Draven",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_2.jpg",
 		 "oldprice":"975",
 		 "newprice":"536"
 		},
 		{
-		 "name":"Primetime Draven",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_3.jpg",
+		 "name":"Pool Party Renekton",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_6.jpg",
+		 "oldprice":"975",
+		 "newprice":"536"
+		},
+		{
+		 "name":"Jaximus",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_5.jpg",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Dreadknight Nasus",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_3.jpg",
+		 "name":"Nemesis Jax",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_7.jpg",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Warlord Shen",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_5.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Beast Hunter Draven",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_5.jpg",
-		 "oldprice":"750",
-		 "newprice":"412"
-		},
-		{
-		 "name":"Darkrider Sejuani",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_2.jpg",
-		 "oldprice":"975",
-		 "newprice":"390"
-		},
-		{
-		 "name":"Bard Bard",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_6.jpg",
+		 "name":"Crimson Elite Talon",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_2.jpg",
 		 "oldprice":"750",
 		 "newprice":"375"
 		},
 		{
-		 "name":"Tango Evelynn",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_3.jpg",
-		 "oldprice":"520",
-		 "newprice":"338"
-		},
-		{
-		 "name":"Monarch Kog'Maw",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_3.jpg",
-		 "oldprice":"520",
-		 "newprice":"260"
-		},
-		{
-		 "name":"Commando Garen",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_3.jpg",
-		 "oldprice":"520",
-		 "newprice":"233"
-		},
-		{
-		 "name":"Assassin Master Yi",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_1.jpg",
-		 "oldprice":"390",
-		 "newprice":"214"
+		 "name":"Veigar Greybeard",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_3.jpg",
+		 "oldprice":"750",
+		 "newprice":"300"
 		}
 	],
-	"period":"July 8th, 2019 - July 15th, 2019"
+	"period":"July 15th, 2019 - July 22nd, 2019"
 }
