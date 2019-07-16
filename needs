@@ -2,31 +2,37 @@
 {
 	sales:[
 		{
-		 "name":"PROJECT Jinx",
+		 "name":"PROJECT: Jinx",
 		 "image":"https://wx1.sinaimg.cn/large/006f8wK2gy1g50mi20p7jj31gy0u0u11.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"PROJECT Warwick",
+		 "name":"PROJECT: Warwick",
 		 "image":"https://wx4.sinaimg.cn/large/006f8wK2gy1g50mi0u3ecj31ev0u07wi.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"PROJECT Akali",
+		 "name":"PROJECT: Akali",
 		 "image":"https://wx4.sinaimg.cn/large/006f8wK2gy1g50mi0y1naj31ev0u0b2a.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"PROJECT Irelia",
+		 "name":"PROJECT: Irelia",
 		 "image":"https://wx1.sinaimg.cn/large/006f8wK2gy1g50mi1f509j31h40u07wk.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"PROJECT Pyke",
+		 "name":"PROJECT: Irelia Prestige Edition",
+		 "image":"https://wx4.sinaimg.cn/orj360/006f8wK2gy1g50mi1pr33j31h40u01l0.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"PROJECT: Pyke",
 		 "image":"https://wx3.sinaimg.cn/large/006f8wK2gy1g50mi1myswj31ev0u0e83.jpg",
 		 "oldprice":"",
 		 "newprice":""
