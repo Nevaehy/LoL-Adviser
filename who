@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Maokai",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg",
-		 "oldprice":"880",
-		 "newprice":"572"
-		},
-		{
-		 "name":"Rengar",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg",
-		 "oldprice":"880",
-		 "newprice":"352"
-		},
-		{
-		 "name":"Vi",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg",
-		 "oldprice":"880",
-		 "newprice":"352"
-		},
-		{
-		 "name":"Cho'Gath",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
-		 "oldprice":"585",
-		 "newprice":"292"
-		},
-		{
-		 "name":"Tryndamere",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg",
-		 "oldprice":"585",
-		 "newprice":"292"
-		},
-		{
-		 "name":"Headhunter Akali",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_7.jpg",
-		 "oldprice":"1350",
-		 "newprice":"944"
-		},
-		{
-		 "name":"Dragon Master Swain",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_4.jpg",
-		 "oldprice":"1350",
-		 "newprice":"877"
-		},
-		{
-		 "name":"Blood Moon Talon",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_5.jpg",
-		 "oldprice":"1350",
-		 "newprice":"877"
-		},
-		{
-		 "name":"Infernal Diana",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_3.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"PROJECT: Ekko",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_3.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"High Noon Jhin",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_1.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Cosmic Blade Master Yi",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_10.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Super Galaxy Nidalee",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_9.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Enduring Sword Talon",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_12.jpg",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Gladiator Draven",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_2.jpg",
-		 "oldprice":"975",
-		 "newprice":"536"
-		},
-		{
-		 "name":"Pool Party Renekton",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_6.jpg",
-		 "oldprice":"975",
-		 "newprice":"536"
-		},
-		{
-		 "name":"Jaximus",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_5.jpg",
+		 "name":"Illaoi",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Nemesis Jax",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_7.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
+		 "name":"Shaco",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_0.jpg",
+		 "oldprice":"790",
+		 "newprice":"434"
 		},
 		{
-		 "name":"Crimson Elite Talon",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_2.jpg",
+		 "name":"Pantheon",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg",
+		 "oldprice":"390",
+		 "newprice":"395"
+		},
+		{
+		 "name":"Ahri",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
+		 "oldprice":"880",
+		 "newprice":"352"
+		},
+		{
+		 "name":"Teemo",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg",
+		 "oldprice":"585",
+		 "newprice":"292"
+		},
+		{
+		 "name":"Arclight Brand",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/18/Brand_ArclightSkin.jpg/revision/latest?cb=20190222022639",
+		 "oldprice":"1350",
+		 "newprice":"975"
+		},
+		{
+		 "name":"Arcade Corki",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6b/Corki_ArcadeSkin.jpg/revision/latest?cb=20181021031541",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Resistance Illaoi",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8a/Illaoi_ResistanceSkin.jpg/revision/latest?cb=20181021053635",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Lancer Stratus Wukong",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/27/Wukong_LancerStratusSkin.jpg/revision/latest?cb=20181021054512",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Cryocore Brand",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/73/Brand_CryocoreSkin.jpg/revision/latest?cb=20181021112234",
+		 "oldprice":"975",
+		 "newprice":"536"
+		},
+		{
+		 "name":"Reaper Hecarim",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a2/Hecarim_ReaperSkin.jpg/revision/latest?cb=20181021200335",
+		 "oldprice":"975",
+		 "newprice":"536"
+		},
+		{
+		 "name":"Academy Ekko",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/72/Ekko_AcademySkin.jpg/revision/latest?cb=20181021015911",
+		 "oldprice":"750",
+		 "newprice":"525"
+		},
+		{
+		 "name":"Order of the Lotus Karma",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/41/Karma_OrderoftheLotusSkin.jpg/revision/latest?cb=20181021022736",
+		 "oldprice":"975",
+		 "newprice":"390"
+		},
+		{
+		 "name":"King of Clubs Mordekaiser",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a8/Mordekaiser_KingofClubsSkin.jpg/revision/latest?cb=20190529195620",
 		 "oldprice":"750",
 		 "newprice":"375"
 		},
 		{
-		 "name":"Veigar Greybeard",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_3.jpg",
+		 "name":"Renektoy",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/34/Renekton_RenektoySkin.jpg/revision/latest?cb=20181021034335",
 		 "oldprice":"750",
-		 "newprice":"300"
+		 "newprice":"375"
+		},
+		{
+		 "name":"Black Scourge Singed",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/99/Singed_BlackScourgeSkin.jpg/revision/latest?cb=20190222222600",
+		 "oldprice":"750",
+		 "newprice":"375"
+		},
+		{
+		 "name":"French Maid Nidalee",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/20/Nidalee_FrenchMaidSkin.jpg/revision/latest?cb=20181021023918",
+		 "oldprice":"520",
+		 "newprice":"338"
+		},
+		{
+		 "name":"Warden Jax",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c0/Jax_WardenSkin.jpg/revision/latest?cb=20181021042752",
+		 "oldprice":"750",
+		 "newprice":"337"
+		},
+		{
+		 "name":"Aviator Irelia",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bf/Irelia_AviatorSkin.jpg/revision/latest?cb=20181021021712",
+		 "oldprice":"520",
+		 "newprice":"286"
+		},
+		{
+		 "name":"Battlecast Xerath",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/28/Xerath_BattlecastSkin.jpg/revision/latest?cb=20181021191018",
+		 "oldprice":"520",
+		 "newprice":"286"
 		}
 	],
-	"period":"July 15th, 2019 - July 22nd, 2019"
+	"period":"July 22nd, 2019 - July 29th, 2019"
 }
