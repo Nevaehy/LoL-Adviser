@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Gnar",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_0.jpg",
-		 "oldprice":"975",
-		 "newprice":"633"
-		},
-		{
-		 "name":"Volibear",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg",
-		 "oldprice":"880",
-		 "newprice":"440"
-		},
-		{
-		 "name":"Sejuani",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg",
-		 "oldprice":"880",
-		 "newprice":"395"
-		},
-		{
-		 "name":"Anivia",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
-		 "oldprice":"790",
-		 "newprice":"395"
-		},
-		{
-		 "name":"Xin Zhao",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_0.jpg",
-		 "oldprice":"585",
-		 "newprice":"391"
-		},
-		{
-		 "name":"Super Galaxy Annie",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bb/Annie_SuperGalaxySkin.jpg/revision/latest?cb=20181021033928",
-		 "oldprice":"1350",
-		 "newprice":"1012"
-		},
-		{
-		 "name":"Papercraft Nunu & Willump",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ef/Nunu_PapercraftSkin.jpg/revision/latest?cb=20190208202628",
-		 "oldprice":"1350",
-		 "newprice":"975"
-		},
-		{
-		 "name":"K/DA Kai'Sa",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Kai%27Sa_KDASkin.jpg/revision/latest?cb=20181009200230",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Pentakill Kayle",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4e/Kayle_PentakillSkin.jpg/revision/latest?cb=20190220212539",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Deep Sea Nami",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7e/Nami_DeepSeaSkin.jpg/revision/latest?cb=20181021192059",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Pulsefire Shen",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9a/Shen_PulsefireSkin.jpg/revision/latest?cb=20181021094236",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Cottontail Fizz",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Fizz_CottontailSkin.jpg/revision/latest?cb=20181021024851",
-		 "oldprice":"975",
-		 "newprice":"585"
-		},
-		{
-		 "name":"Bladecraft Orianna",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/84/Orianna_BladecraftSkin.jpg/revision/latest?cb=20181021190343",
+		 "name":"Bard",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Nothern Front Swain",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/38/Swain_NorthernFrontSkin.jpg/revision/latest?cb=20181021024336",
-		 "oldprice":"750",
-		 "newprice":"450"
+		 "name":"Renekton",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg",
+		 "oldprice":"880",
+		 "newprice":"440"
 		},
 		{
-		 "name":"Little Knight Amumu",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/79/Amumu_LittleKnightSkin.jpg/revision/latest?cb=20181021103320",
-		 "oldprice":"750",
-		 "newprice":"375"
+		 "name":"Zed",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg",
+		 "oldprice":"880",
+		 "newprice":"440"
 		},
 		{
-		 "name":"Apocalyptic Brand",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/dc/Brand_ApocalypticSkin.jpg/revision/latest?cb=20181021112143",
-		 "oldprice":"750",
-		 "newprice":"375"
+		 "name":"Miss Fortune",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg",
+		 "oldprice":"790",
+		 "newprice":"355"
 		},
 		{
-		 "name":"Marauder Ashe",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Ashe_MarauderSkin.jpg/revision/latest?cb=20181021061058",
-		 "oldprice":"750",
-		 "newprice":"337"
+		 "name":"Alistar",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg",
+		 "oldprice":"585",
+		 "newprice":"234"
 		},
 		{
-		 "name":"Sorceress Lux",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5b/Lux_SorceressSkin.jpg/revision/latest?cb=20181021200551",
-		 "oldprice":"520",
-		 "newprice":"286"
+		 "name":"Fuzz Fizz",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bc/Fizz_FuzzSkin.jpg/revision/latest?cb=20190305204210",
+		 "oldprice":"1350",
+		 "newprice":"975"
 		},
 		{
-		 "name":"Resistance Caitlyn",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/68/Caitlyn_ResistanceSkin.jpg/revision/latest?cb=20181021075731",
+		 "name":"Badlands Baron Rumble",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Rumble_BadlandsBaronSkin.jpg/revision/latest?cb=20181021060805",
+		 "oldprice":"1350",
+		 "newprice":"810"
+		},
+		{
+		 "name":"Glacial Malphite",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4f/Malphite_GlacialSkin.jpg/revision/latest?cb=20181021120742",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Pool Party Zac",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/14/Zac_PoolPartySkin.jpg/revision/latest?cb=20181021014921",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Pool Party Miss Fortune",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f2/Miss_Fortune_PoolPartySkin.jpg/revision/latest?cb=20181021014213",
+		 "oldprice":"1350",
+		 "newprice":"607"
+		},
+		{
+		 "name":"Foxfire Ahri",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/10/Ahri_FoxfireSkin.jpg/revision/latest?cb=20181021104559",
+		 "oldprice":"975",
+		 "newprice":"536"
+		},
+		{
+		 "name":"Captain Fortune",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/77/Miss_Fortune_CaptainFortuneSkin.jpg/revision/latest?cb=20181021045430",
+		 "oldprice":"975",
+		 "newprice":"536"
+		},
+		{
+		 "name":"Pug'Maw",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Kog%27Maw_Pug%27MawSkin.jpg/revision/latest?cb=20181021034357",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Dragon Fist Lee Sin",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7c/Lee_Sin_DragonFistSkin.jpg/revision/latest?cb=20181021122513",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Phoenix Quinn",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/db/Quinn_PhoenixSkin.jpg/revision/latest?cb=20181021022207",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Darkforge Jarvan IV",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/45/Jarvan_IV_DarkforgeSkin.jpg/revision/latest?cb=20181021104821",
+		 "oldprice":"975",
+		 "newprice":"390"
+		},
+		{
+		 "name":"Commando Galio",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c8/Galio_CommandoSkin.jpg/revision/latest?cb=20181028183706",
 		 "oldprice":"520",
 		 "newprice":"260"
 		},
 		{
-		 "name":"Bilgewater Swain",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/99/Swain_BilgewaterSkin.jpg/revision/latest?cb=20181021091912",
+		 "name":"Samurai Yi",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8e/Master_Yi_SamuraiYiSkin.jpg/revision/latest?cb=20181021104306",
 		 "oldprice":"520",
 		 "newprice":"260"
+		},
+		{
+		 "name":"Hillbilly Gragas",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/55/Gragas_HillbillySkin.jpg/revision/latest?cb=20181021093212",
+		 "oldprice":"520",
+		 "newprice":"208"
+		},
+		{
+		 "name":"Uncle Ryze",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Ryze_UncleSkin.jpg/revision/latest?cb=20181021045023",
+		 "oldprice":"520",
+		 "newprice":"208"
 		}
 	],
-	"period":"August 19th, 2019 - August 26th, 2019"
+	"period":"September 3rd, 2019 - September 9th, 2019"
 }
