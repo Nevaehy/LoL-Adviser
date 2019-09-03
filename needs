@@ -2,26 +2,20 @@
 {
 	sales:[
 		{
-		 "name":"Elderwood Ahri",
-		 "image":"https://1.bp.blogspot.com/-9Xj7BIvT5w0/XVM9JwnGLqI/AAAAAAABXJA/VYbjv85aEQ0YwZ6EB0hC1_D1JHXyS8zigCLcBGAs/s1600/103017.jpg",
+		 "name":"Star Guardian Xayah & Rakan",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f2/Xayah_StarGuardianSkin.jpg/revision/latest?cb=20190827193841",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Elderwood Nocturne",
-		 "image":"https://1.bp.blogspot.com/-3vGkf4yUhUU/XVM9H-NETQI/AAAAAAABXI4/W9caeI3RFLoXac5KnrYiYr3TeOICWTSgQCLcBGAs/s1600/56007.jpg",
+		 "name":"Star Guardian Zoe",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/04/Zoe_StarGuardianSkin.jpg/revision/latest?cb=20190827193948",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Elderwood Veigar",
-		 "image":"https://1.bp.blogspot.com/-kb_jT1DNqX0/XVM9HMc2M7I/AAAAAAABXI0/uR_2fL483LUDNbMHm_2rTm0fyJxvFwNDwCLcBGAs/s1600/45013.jpg",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Infernal Shen, Galio and Varus",
-		 "image":"https://1.bp.blogspot.com/-NIFDv27Fgm0/XVM9GEIsGII/AAAAAAABXIw/IOgOdNd3v3obPszoQOetkGS6dGtdEB0jQCLcBGAs/s1600/3013.jpg",
+		 "name":"Star Guardian Neeko",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f5/Neeko_StarGuardianSkin.jpg/revision/latest?cb=20190827194229",
 		 "oldprice":"",
 		 "newprice":""
 		}
