@@ -2,20 +2,32 @@
 {
 	sales:[
 		{
-		 "name":"Star Guardian Xayah & Rakan",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f2/Xayah_StarGuardianSkin.jpg/revision/latest?cb=20190827193841",
+		 "name":"Hextech Amumu",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a7/Amumu_HextechSkin.jpg/revision/latest?cb=20190912223551",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Star Guardian Zoe",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/04/Zoe_StarGuardianSkin.jpg/revision/latest?cb=20190827193948",
+		 "name":"Championship Ryze",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Ryze_ChampionshipSkin.jpg/revision/latest?cb=20190912223746",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Star Guardian Neeko",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f5/Neeko_StarGuardianSkin.jpg/revision/latest?cb=20190827194229",
+		 "name":"Majestic Empress Morgana",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/71/Morgana_MajesticEmpressSkin.jpg/revision/latest?cb=20190914050003",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Valiant Sword Riven",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bc/Riven_ValiantSwordSkin.jpg/revision/latest?cb=20190914062505",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Valiant Sword Riven Prestige Edition",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/80/Riven_PrestigeValiantSwordSkin.jpg/revision/latest?cb=20190916231530",
 		 "oldprice":"",
 		 "newprice":""
 		}
