@@ -2,6 +2,24 @@
 {
 	sales:[
 		{
+		 "name":"High Noon Ashe",
+		 "image":"https://1.bp.blogspot.com/-F-4RU82qcps/XYruVPVr7uI/AAAAAAABY-U/2kjdI6JAgvY0cq-10m9tTvpYmNOUj9WmgCLcBGAsYHQ/s1600/22017.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"High Noon Darius",
+		 "image":"https://1.bp.blogspot.com/-qBBb6CjufGA/XYruXCy4Q8I/AAAAAAABY-c/P46BAmvJsjIDmbStGPmwGeUGutyUtx7VwCLcBGAsYHQ/s1600/122016.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"High Noon Hecarim",
+		 "image":"https://1.bp.blogspot.com/-dC-0J3KXkfk/XYruWUwdTFI/AAAAAAABY-Y/I5ribMnne2QnRL_5QVqkMFUv4vfn_slHACLcBGAsYHQ/s1600/120008.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
 		 "name":"Splendid Staff Nami",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4f/Nami_SplendidStaffSkin.jpg/revision/latest?cb=20190918184522",
 		 "oldprice":"",
