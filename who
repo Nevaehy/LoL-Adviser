@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Ekko",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
+		 "name":"Neeko",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
 		 "oldprice":"975",
-		 "newprice":"487"
+		 "newprice":"682"
 		},
 		{
-		 "name":"Orianna",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_0.jpg",
+		 "name":"Irelia",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg",
 		 "oldprice":"880",
 		 "newprice":"440"
 		},
 		{
-		 "name":"Ziggs",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg",
+		 "name":"Leona",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg",
 		 "oldprice":"880",
-		 "newprice":"440"
+		 "newprice":"352"
 		},
 		{
-		 "name":"Aurelion Sol",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
+		 "name":"Yorick",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg",
+		 "oldprice":"880",
+		 "newprice":"352"
+		},
+		{
+		 "name":"Malphite",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg",
+		 "oldprice":"585",
+		 "newprice":"292"
+		},
+		{
+		 "name":"Battle Professor Graves",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/50/Graves_BattleProfessorSkin.jpg/revision/latest?cb=20190430214759",
+		 "oldprice":"1350",
+		 "newprice":"975"
+		},
+		{
+		 "name":"Dunkmaster Ivern",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/34/Ivern_DunkmasterSkin.jpg/revision/latest?cb=20190319204253",
+		 "oldprice":"1350",
+		 "newprice":"975"
+		},
+		{
+		 "name":"Pulsefire Twisted Fate",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/24/Twisted_Fate_PulsefireSkin.jpg/revision/latest?cb=20181021071444",
+		 "oldprice":"1350",
+		 "newprice":"944"
+		},
+		{
+		 "name":"Gravelord Azir",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ec/Azir_GravelordSkin.jpg/revision/latest?cb=20181021070334",
+		 "oldprice":"1350",
+		 "newprice":"742"
+		},
+		{
+		 "name":"Baker Pantheon",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Pantheon_BakerSkin.jpg/revision/latest?cb=20190730200941",
 		 "oldprice":"975",
-		 "newprice":"438"
+		 "newprice":"731"
 		},
 		{
-		 "name":"Lux",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg",
-		 "oldprice":"790",
-		 "newprice":"316"
-		},
-		{
-		 "name":"Pretty Kitty Rengar",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7e/Rengar_PrettyKittySkin.jpg/revision/latest?cb=20190305203648",
-		 "oldprice":"1350",
-		 "newprice":"975"
-		},
-		{
-		 "name":"Meowrick",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9d/Yorick_MeowrickSkin.jpg/revision/latest?cb=20190305203824",
-		 "oldprice":"1350",
-		 "newprice":"975"
-		},
-		{
-		 "name":"Odyssey Sona",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2e/Sona_OdysseySkin.jpg/revision/latest?cb=20180911020842",
-		 "oldprice":"1350",
-		 "newprice":"810"
-		},
-		{
-		 "name":"Arctic Ops Gragas",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/33/Gragas_ArcticOpsSkin.jpg/revision/latest?cb=20181021033608",
+		 "name":"El Macho Mundo",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/53/Dr._Mundo_ElMachoMundoSkin.jpg/revision/latest?cb=20181021092419",
 		 "oldprice":"1350",
 		 "newprice":"675"
 		},
 		{
-		 "name":"Dark Star Jarvan IV",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b1/Jarvan_IV_DarkStarSkin.jpg/revision/latest?cb=20181021023707",
+		 "name":"Cosmic Enchantress Lulu",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Lulu_CosmicEnchantressSkin.jpg/revision/latest?cb=20180807200023",
 		 "oldprice":"1350",
 		 "newprice":"675"
 		},
 		{
-		 "name":"PROJECT: Leona",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/75/Leona_PROJECTSkin.jpg/revision/latest?cb=20181021030521",
+		 "name":"Pool Party Taric",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Taric_PoolPartySkin.jpg/revision/latest?cb=20181021092604",
 		 "oldprice":"1350",
 		 "newprice":"675"
 		},
 		{
-		 "name":"Dragon Sorceress Zyra",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3a/Zyra_DragonSorceressSkin.jpg/revision/latest?cb=20181021020031",
+		 "name":"Cyber Pop Zoe",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e5/Zoe_CyberPopSkin.jpg/revision/latest?cb=20181021021819",
 		 "oldprice":"1350",
 		 "newprice":"675"
 		},
 		{
-		 "name":"Piltover Customs Blitzcrank",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/75/Blitzcrank_PiltoverCustomsSkin.jpg/revision/latest?cb=20181021121834",
-		 "oldprice":"1350",
-		 "newprice":"540"
+		 "name":"Jurassic Kog'Maw",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Kog%27Maw_JurassicSkin.jpg/revision/latest?cb=20181021104244",
+		 "oldprice":"975",
+		 "newprice":"536"
 		},
 		{
-		 "name":"Battleborn Kayle",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Kayle_BattlebornSkin.jpg/revision/latest?cb=20190225212350",
-		 "oldprice":"1350",
-		 "newprice":"540"
-		},
-		{
-		 "name":"Demolisher Nunu & Willump",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/dd/Nunu_DemolisherSkin.jpg/revision/latest?cb=20180814221410",
+		 "name":"Jurassic Cho'Gath",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/26/Cho%27Gath_JurassicSkin.jpg/revision/latest?cb=20181021073038",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Night Hunter Rengar",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Rengar_NightHunterSkin.jpg/revision/latest?cb=20181021065917",
+		 "name":"Ironside Malphite",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Malphite_IronsideSkin.jpg/revision/latest?cb=20181021020902",
 		 "oldprice":"975",
-		 "newprice":"438"
+		 "newprice":"487"
 		},
 		{
-		 "name":"Special Forces Gangplank",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/51/Gangplank_SpecialForcesSkin.jpg/revision/latest?cb=20181021121647",
+		 "name":"Asylum Shaco",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/22/Shaco_AsylumSkin.jpg/revision/latest?cb=20181021071554",
 		 "oldprice":"975",
-		 "newprice":"390"
+		 "newprice":"487"
 		},
 		{
-		 "name":"Lumberjack Sion",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a5/Sion_LumberjackSkin.jpg/revision/latest?cb=20181021094742",
-		 "oldprice":"520",
-		 "newprice":"260"
+		 "name":"Urf the Nami-tee",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ce/Nami_UrftheNami-teeSkin.jpg/revision/latest?cb=20181021031320",
+		 "oldprice":"750",
+		 "newprice":"412"
 		},
 		{
-		 "name":"Royal Shaco",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7e/Shaco_RoyalSkin.jpg/revision/latest?cb=20181021062449",
-		 "oldprice":"520",
-		 "newprice":"208"
-		},
-		{
-		 "name":"Commando Lux",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/69/Lux_CommandoSkin.jpg/revision/latest?cb=20181021083651",
-		 "oldprice":"520",
-		 "newprice":"208"
+		 "name":"Midnight Ahri",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/03/Ahri_MidnightSkin.jpg/revision/latest?cb=20181021110442",
+		 "oldprice":"750",
+		 "newprice":"375"
 		}
 	],
-	"period":"September 23rd, 2019 - September 30th, 2019"
+	"period":"October 7th, 2019 - October 14th, 2019"
 }
