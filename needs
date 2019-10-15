@@ -2,20 +2,26 @@
 {
 	sales:[
 		{
-		 "name":"High Noon Ashe",
-		 "image":"https://1.bp.blogspot.com/-F-4RU82qcps/XYruVPVr7uI/AAAAAAABY-U/2kjdI6JAgvY0cq-10m9tTvpYmNOUj9WmgCLcBGAsYHQ/s1600/22017.jpg",
+		 "name":"Count Kassadin",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3f/Kassadin_CountSkin.jpg/revision/latest?cb=20191010194646",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"High Noon Darius",
-		 "image":"https://1.bp.blogspot.com/-qBBb6CjufGA/XYruXCy4Q8I/AAAAAAABY-c/P46BAmvJsjIDmbStGPmwGeUGutyUtx7VwCLcBGAsYHQ/s1600/122016.jpg",
+		 "name":"Witch's Brew Blitzcrank",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/45/Blitzcrank_Witch%27sBrewSkin.jpg/revision/latest?cb=20191008204552",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"High Noon Hecarim",
-		 "image":"https://1.bp.blogspot.com/-dC-0J3KXkfk/XYruWUwdTFI/AAAAAAABY-Y/I5ribMnne2QnRL_5QVqkMFUv4vfn_slHACLcBGAsYHQ/s1600/120008.jpg",
+		 "name":"Bewitching Miss Fortune",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bd/Miss_Fortune_BewitchingSkin.jpg/revision/latest?cb=20191008204731",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Bewitching Miss Fortune Prestige Edition",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/dc/Miss_Fortune_PrestigeBewitchingSkin.jpg/revision/latest?cb=20191010151648",
 		 "oldprice":"",
 		 "newprice":""
 		}
