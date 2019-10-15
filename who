@@ -1,124 +1,124 @@
 {
 	sales:[
 		{
-		 "name":"Neeko",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
+		 "name":"Lucian",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg",
 		 "oldprice":"975",
-		 "newprice":"682"
+		 "newprice":"487"
 		},
 		{
-		 "name":"Irelia",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg",
+		 "name":"Nautilus",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg",
 		 "oldprice":"880",
 		 "newprice":"440"
 		},
 		{
-		 "name":"Leona",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg",
-		 "oldprice":"880",
-		 "newprice":"352"
+		 "name":"Blitzcrank",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
+		 "oldprice":"790",
+		 "newprice":"395"
 		},
 		{
-		 "name":"Yorick",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg",
-		 "oldprice":"880",
-		 "newprice":"352"
+		 "name":"Shyvana",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg",
+		 "oldprice":"790",
+		 "newprice":"395"
 		},
 		{
-		 "name":"Malphite",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg",
+		 "name":"Janna",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_0.jpg",
 		 "oldprice":"585",
 		 "newprice":"292"
 		},
 		{
-		 "name":"Battle Professor Graves",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/50/Graves_BattleProfessorSkin.jpg/revision/latest?cb=20190430214759",
+		 "name":"K/DA Ahri",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3e/Ahri_KDASkin.jpg/revision/latest?cb=20181009195926",
 		 "oldprice":"1350",
-		 "newprice":"975"
+		 "newprice":"1012"
 		},
 		{
-		 "name":"Dunkmaster Ivern",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/34/Ivern_DunkmasterSkin.jpg/revision/latest?cb=20190319204253",
-		 "oldprice":"1350",
-		 "newprice":"975"
-		},
-		{
-		 "name":"Pulsefire Twisted Fate",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/24/Twisted_Fate_PulsefireSkin.jpg/revision/latest?cb=20181021071444",
-		 "oldprice":"1350",
-		 "newprice":"944"
-		},
-		{
-		 "name":"Gravelord Azir",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ec/Azir_GravelordSkin.jpg/revision/latest?cb=20181021070334",
+		 "name":"Scorched Earth Xerath",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/44/Xerath_ScorchedEarthSkin.jpg/revision/latest?cb=20181021104841",
 		 "oldprice":"1350",
 		 "newprice":"742"
 		},
 		{
-		 "name":"Baker Pantheon",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Pantheon_BakerSkin.jpg/revision/latest?cb=20190730200941",
+		 "name":"Jade Fang Cassiopeia",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Cassiopeia_JadeFangSkin.jpg/revision/latest?cb=20181021105419",
 		 "oldprice":"975",
 		 "newprice":"731"
 		},
 		{
-		 "name":"El Macho Mundo",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/53/Dr._Mundo_ElMachoMundoSkin.jpg/revision/latest?cb=20181021092419",
+		 "name":"Woad Ashe",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/18/Ashe_WoadSkin.jpg/revision/latest?cb=20181021041958",
+		 "oldprice":"520",
+		 "newprice":"208"
+		},
+		{
+		 "name":"Battle Boss Ziggs",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a2/Ziggs_BattleBossSkin.jpg/revision/latest?cb=20181021034918",
 		 "oldprice":"1350",
 		 "newprice":"675"
 		},
 		{
-		 "name":"Cosmic Enchantress Lulu",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Lulu_CosmicEnchantressSkin.jpg/revision/latest?cb=20180807200023",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Pool Party Taric",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Taric_PoolPartySkin.jpg/revision/latest?cb=20181021092604",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Cyber Pop Zoe",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e5/Zoe_CyberPopSkin.jpg/revision/latest?cb=20181021021819",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Jurassic Kog'Maw",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Kog%27Maw_JurassicSkin.jpg/revision/latest?cb=20181021104244",
-		 "oldprice":"975",
-		 "newprice":"536"
-		},
-		{
-		 "name":"Jurassic Cho'Gath",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/26/Cho%27Gath_JurassicSkin.jpg/revision/latest?cb=20181021073038",
+		 "name":"Blood Moon Evelynn",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/98/Evelynn_BloodMoonSkin.jpg/revision/latest?cb=20181021065739",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Ironside Malphite",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Malphite_IronsideSkin.jpg/revision/latest?cb=20181021020902",
+		 "name":"Guardian of the Sands Rammus",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6c/Rammus_GuardianoftheSandsSkin.jpg/revision/latest?cb=20181021032459",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Asylum Shaco",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/22/Shaco_AsylumSkin.jpg/revision/latest?cb=20181021071554",
+		 "name":"Superb Villain Veigar",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9d/Veigar_SuperbVillainSkin.jpg/revision/latest?cb=20181021081635",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Urf the Nami-tee",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ce/Nami_UrftheNami-teeSkin.jpg/revision/latest?cb=20181021031320",
-		 "oldprice":"750",
-		 "newprice":"412"
+		 "name":"Volcanic Wukong",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/50/Wukong_VolcanicSkin.jpg/revision/latest?cb=20181021024911",
+		 "oldprice":"975",
+		 "newprice":"487"
 		},
 		{
-		 "name":"Midnight Ahri",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/03/Ahri_MidnightSkin.jpg/revision/latest?cb=20181021110442",
-		 "oldprice":"750",
-		 "newprice":"375"
+		 "name":"Lord Darius",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9e/Darius_LordSkin.jpg/revision/latest?cb=20181021060447",
+		 "oldprice":"975",
+		 "newprice":"438"
+		},
+		{
+		 "name":"Rumble in the Jungle",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/65/Rumble_RumbleintheJungleSkin.jpg/revision/latest?cb=20181021020624",
+		 "oldprice":"975",
+		 "newprice":"438"
+		},
+		{
+		 "name":"Shurima Desert Zilean",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d7/Zilean_ShurimaDesertSkin.jpg/revision/latest?cb=20181021191658",
+		 "oldprice":"975",
+		 "newprice":"390"
+		},
+		{
+		 "name":"Warrior Princess Sivir",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/28/Sivir_WarriorPrincessSkin.jpg/revision/latest?cb=20181021032959",
+		 "oldprice":"520",
+		 "newprice":"286"
+		},
+		{
+		 "name":"Monarch Kog'Maw",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b2/Kog%27Maw_MonarchSkin.jpg/revision/latest?cb=20181021120652",
+		 "oldprice":"520",
+		 "newprice":"260"
+		},
+		{
+		 "name":"Ravager Nocturne",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0d/Nocturne_RavagerSkin.jpg/revision/latest?cb=20181021055753",
+		 "oldprice":"520",
+		 "newprice":"260"
 		}
 	],
 	"period":"October 7th, 2019 - October 14th, 2019"
