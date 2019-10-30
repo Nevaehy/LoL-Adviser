@@ -2,26 +2,38 @@
 {
 	sales:[
 		{
-		 "name":"Count Kassadin",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3f/Kassadin_CountSkin.jpg/revision/latest?cb=20191010194646",
+		 "name":"True Damage Ekko",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c8/Ekko_TrueDamageSkin.jpg/revision/latest?cb=20191030033742",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Witch's Brew Blitzcrank",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/45/Blitzcrank_Witch%27sBrewSkin.jpg/revision/latest?cb=20191008204552",
+		 "name":"True Damage Yasuo",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0e/Yasuo_TrueDamageSkin.jpg/revision/latest?cb=20191030034050",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Bewitching Miss Fortune",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bd/Miss_Fortune_BewitchingSkin.jpg/revision/latest?cb=20191008204731",
+		 "name":"True Damage Senna",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0e/Yasuo_TrueDamageSkin.jpg/revision/latest?cb=20191030034050",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Bewitching Miss Fortune Prestige Edition",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/dc/Miss_Fortune_PrestigeBewitchingSkin.jpg/revision/latest?cb=20191010151648",
+		 "name":"True Damage Qiyana",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1b/Qiyana_TrueDamageSkin.jpg/revision/latest?cb=20191030034018",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"True Damage Qiyana Prestige Edition",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e6/Qiyana_PrestigeTrueDamageSkin.jpg/revision/latest?cb=20191030033915",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"True Damage Akali",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a3/Akali_TrueDamageSkin.jpg/revision/latest?cb=20191030033649",
 		 "oldprice":"",
 		 "newprice":""
 		}
