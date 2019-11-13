@@ -2,38 +2,14 @@
 {
 	sales:[
 		{
-		 "name":"True Damage Ekko",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c8/Ekko_TrueDamageSkin.jpg/revision/latest?cb=20191030033742",
+		 "name":"Pulsefire Thresh",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/73/Thresh_PulsefireSkin.jpg/revision/latest?cb=20191105213028",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"True Damage Yasuo",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0e/Yasuo_TrueDamageSkin.jpg/revision/latest?cb=20191030034050",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"True Damage Senna",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/57/Senna_TrueDamageSkin.jpg/revision/latest?cb=20191030033827",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"True Damage Qiyana",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1b/Qiyana_TrueDamageSkin.jpg/revision/latest?cb=20191030034018",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"True Damage Qiyana Prestige Edition",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e6/Qiyana_PrestigeTrueDamageSkin.jpg/revision/latest?cb=20191030033915",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"True Damage Akali",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a3/Akali_TrueDamageSkin.jpg/revision/latest?cb=20191030033649",
+		 "name":"Pulsefire Thresh Prestige Edition",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8c/Thresh_PrestigePulsefireSkin.jpg/revision/latest?cb=20191108205059",
 		 "oldprice":"",
 		 "newprice":""
 		}
