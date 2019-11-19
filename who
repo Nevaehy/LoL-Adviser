@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Diana",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg",
-		 "oldprice":"880",
-		 "newprice":"440"
-		},
-		{
-		 "name":"LeBlanc",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_0.jpg",
-		 "oldprice":"790",
-		 "newprice":"395"
-		},
-		{
-		 "name":"Shen",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg",
-		 "oldprice":"790",
-		 "newprice":"395"
-		},
-		{
-		 "name":"Caitlyn",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
-		 "oldprice":"880",
-		 "newprice":"352"
-		},
-		{
-		 "name":"Cho'Gath",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
-		 "oldprice":"585",
-		 "newprice":"321"
-		},
-		{
-		 "name":"Battle Academia Jayce",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/00/Jayce_BattleAcademiaSkin.jpg/revision/latest?cb=20190430214625",
-		 "oldprice":"1350",
-		 "newprice":"975"
-		},
-		{
-		 "name":"Battle Academia Katarina",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/44/Katarina_BattleAcademiaSkin.jpg/revision/latest?cb=20190430214912",
-		 "oldprice":"1350",
-		 "newprice":"975"
-		},
-		{
-		 "name":"Battle Academia Lux",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2a/Lux_BattleAcademiaSkin.jpg/revision/latest?cb=20190430200022",
-		 "oldprice":"1350",
-		 "newprice":"975"
-		},
-		{
-		 "name":"Dragon Master Swain",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b7/Swain_DragonMasterSkin.jpg/revision/latest?cb=20181021062313",
-		 "oldprice":"1350",
-		 "newprice":"742"
-		},
-		{
-		 "name":"Chrome Rammus",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2f/Rammus_ChromeSkin.jpg/revision/latest?cb=20181021093536",
-		 "oldprice":"750",
-		 "newprice":"375"
-		},
-		{
-		 "name":"Augmented Singed",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1a/Singed_AugmentedSkin.jpg/revision/latest?cb=20181021100201",
+		 "name":"Camille",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg",
 		 "oldprice":"975",
 		 "newprice":"585"
 		},
 		{
-		 "name":"Academy Darius",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Darius_AcademySkin.jpg/revision/latest?cb=20181021015850",
-		 "oldprice":"750",
-		 "newprice":"375"
+		 "name":"Anivia",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
+		 "oldprice":"790",
+		 "newprice":"474"
 		},
 		{
-		 "name":"Ghost Bride Morgana",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6b/Morgana_GhostBrideSkin.jpg/revision/latest?cb=20190220204933",
-		 "oldprice":"975",
-		 "newprice":"390"
+		 "name":"Sejuani",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg",
+		 "oldprice":"880",
+		 "newprice":"440"
 		},
 		{
-		 "name":"Justicar Syndra",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6c/Syndra_JusticarSkin.jpg/revision/latest?cb=20181021034657",
-		 "oldprice":"975",
-		 "newprice":"487"
+		 "name":"Pantheon",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg",
+		 "oldprice":"790",
+		 "newprice":"434"
 		},
 		{
-		 "name":"Abyssal Nautilus",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/86/Nautilus_AbyssalSkin.jpg/revision/latest?cb=20181021103119",
-		 "oldprice":"975",
-		 "newprice":"487"
+		 "name":"Urgot",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg",
+		 "oldprice":"790",
+		 "newprice":"395"
 		},
 		{
-		 "name":"Golden Alistar",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/37/Alistar_GoldenSkin.jpg/revision/latest?cb=20181021045508",
-		 "oldprice":"390",
-		 "newprice":"156"
+		 "name":"Battle Boss Qiyana",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/21/Qiyana_BattleBossSkin.jpg/revision/latest?cb=20190611183232",
+		 "oldprice":"1350",
+		 "newprice":"975"
 		},
 		{
-		 "name":"Warring Kingdoms Katarina",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cf/Katarina_WarringKingdomsSkin.jpg/revision/latest?cb=20181021071352",
+		 "name":"Little Demon Tristana",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/82/Tristana_LittleDemonSkin.jpg/revision/latest?cb=20190522073213",
+		 "oldprice":"1350",
+		 "newprice":"975"
+		},
+		{
+		 "name":"Winter Wonder Neeko",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b3/Neeko_WinterWonderSkin.jpg/revision/latest?cb=20181119213601",
+		 "oldprice":"1350",
+		 "newprice":"944"
+		},
+		{
+		 "name":"God Staff Jax",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/40/Jax_GodStaffSkin.jpg/revision/latest?cb=20181021062832",
+		 "oldprice":"1350",
+		 "newprice":"742"
+		},
+		{
+		 "name":"Dreadnova Gangplank",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/38/Gangplank_DreadnovaSkin.jpg/revision/latest?cb=20181021121520",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Mecha Malphite",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/45/Malphite_MechaSkin.jpg/revision/latest?cb=20181021082148",
+		 "oldprice":"1350",
+		 "newprice":"540"
+		},
+		{
+		 "name":"Arctic Ops Kennen",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d6/Kennen_ArcticOpsSkin.jpg/revision/latest?cb=20181021105541",
 		 "oldprice":"975",
 		 "newprice":"536"
 		},
 		{
-		 "name":"Panda Teemo",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d5/Teemo_PandaSkin.jpg/revision/latest?cb=20181021074146",
+		 "name":"Woad King Darius",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Darius_WoadKingSkin.jpg/revision/latest?cb=20181021070034",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Guqin Sona",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/60/Sona_GuqinSkin.jpg/revision/latest?cb=20181021025655",
+		 "name":"Dino Gnar",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Gnar_DinoSkin.jpg/revision/latest?cb=20181021200908",
 		 "oldprice":"975",
-		 "newprice":"633"
+		 "newprice":"487"
 		},
 		{
-		 "name":"Battlecast Xerath",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/28/Xerath_BattlecastSkin.jpg/revision/latest?cb=20181021191018",
-		 "oldprice":"520",
-		 "newprice":"312"
+		 "name":"Gangster Twitch",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/39/Twitch_GangsterSkin.jpg/revision/latest?cb=20181021031115",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Frostfire Annie",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/19/Annie_FrostfireSkin.jpg/revision/latest?cb=20181021040417",
+		 "oldprice":"975",
+		 "newprice":"438"
+		},
+		{
+		 "name":"Mafia Graves",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fd/Graves_MafiaSkin.jpg/revision/latest?cb=20181021121757",
+		 "oldprice":"975",
+		 "newprice":"438"
+		},
+		{
+		 "name":"Prehistoric Anivia",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a1/Anivia_PrehistoricSkin.jpg/revision/latest?cb=20181021021124",
+		 "oldprice":"750",
+		 "newprice":"375"
+		},
+		{
+		 "name":"Worldbreaker Hecarim",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Hecarim_WorldbreakerSkin.jpg/revision/latest?cb=20181021024519",
+		 "oldprice":"750",
+		 "newprice":"375"
+		},
+		{
+		 "name":"Order of the Lotus Irelia",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3e/Irelia_OrderoftheLotusSkin.jpg/revision/latest?cb=20181021054139",
+		 "oldprice":"750",
+		 "newprice":"337"
 		}
 	],
-	"period":"November 11th, 2019 - November 18th, 2019"
+	"period":"November 18th, 2019 - November 25th, 2019"
 }
