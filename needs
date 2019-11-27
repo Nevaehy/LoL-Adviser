@@ -2,20 +2,74 @@
 {
 	sales:[
 		{
-		 "name":"Pulsefire Thresh",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/73/Thresh_PulsefireSkin.jpg/revision/latest?cb=20191105213028",
+		 "name":"Dawnbringer Soraka",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/42/Soraka_DawnbringerSkin.jpg/revision/latest?cb=20191126044105",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Pulsefire Thresh Prestige Edition",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8c/Thresh_PrestigePulsefireSkin.jpg/revision/latest?cb=20191108205059",
+		 "name":"Nightbringer Soraka",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e8/Soraka_NightbringerSkin.jpg/revision/latest?cb=20191126044153",
 		 "oldprice":"",
 		 "newprice":""
 		}, 
 		{
-		 "name":"Victorious Aatrox",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c6/Aatrox_VictoriousSkin.jpg/revision/latest?cb=20191113203058",
+		 "name":"Dawnbringer Karma",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d0/Karma_DawnbringerSkin.jpg/revision/latest?cb=20191126044004",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Dawnbringer Nidalee",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3b/Nidalee_DawnbringerSkin.jpg/revision/latest?cb=20191126044040",
+		 "oldprice":"",
+		 "newprice":""
+		}, 
+		{
+		 "name":"Hextech Swain",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/84/Swain_HextechSkin.jpg/revision/latest?cb=20191126220726",
+		 "oldprice":"",
+		 "newprice":""
+		}, 
+		{
+		 "name":"Nightbringer Vladimir",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5a/Vladimir_NightbringerSkin.jpg/revision/latest?cb=20191126044230",
+		 "oldprice":"",
+		 "newprice":""
+		}, 
+		{
+		 "name":"Nightbringer Aphelios",
+		 "image":"https://1.bp.blogspot.com/-VpMjJCHofHU/Xd2Zq04BOiI/AAAAAAABbqc/3k7IfSSHJqAQDaO9EvBExAoiXkeFqMDBACLcBGAsYHQ/s1600/523001.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Nightbringer Lee Sin",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a5/Lee_Sin_NightbringerSkin.jpg/revision/latest?cb=20191126043915",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Sugar Rush Braum",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d4/Braum_SugarRushSkin.jpg/revision/latest?cb=20191126221633",
+		 "oldprice":"",
+		 "newprice":""
+		}, 
+		{
+		 "name":"Sugar Rush Ziggs",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/52/Ziggs_SugarRushSkin.jpg/revision/latest?cb=20191126221758",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Sugar Rush Evelynn",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b9/Evelynn_SugarRushSkin.jpg/revision/latest?cb=20191126220442",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Sugar Rush Zilean",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cf/Zilean_SugarRushSkin.jpg/revision/latest?cb=20191126044213",
 		 "oldprice":"",
 		 "newprice":""
 		}
