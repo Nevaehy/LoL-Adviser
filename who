@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Volibear",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg",
+		 "name":"Neeko",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
+		 "oldprice":"975",
+		 "newprice":"731"
+		},
+		{
+		 "name":"Braum",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
+		 "oldprice":"975",
+		 "newprice":"682"
+		},
+		{
+		 "name":"Leona",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg",
 		 "oldprice":"880",
-		 "newprice":"572"
+		 "newprice":"440"
 		},
 		{
-		 "name":"Gnar",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_0.jpg",
-		 "oldprice":"975",
-		 "newprice":"487"
+		 "name":"Lissandra",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg",
+		 "oldprice":"880",
+		 "newprice":"440"
 		},
 		{
-		 "name":"Olaf",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg",
-		 "oldprice":"790",
-		 "newprice":"395"
+		 "name":"Morgana",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_0.jpg",
+		 "oldprice":"585",
+		 "newprice":"292"
 		},
 		{
-		 "name":"Trundle",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg",
-		 "oldprice":"790",
-		 "newprice":"395"
-		},
-		{
-		 "name":"Lux",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg",
-		 "oldprice":"790",
-		 "newprice":"395"
-		},
-		{
-		 "name":"Demacia Vice Lucian",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8e/Lucian_DemaciaViceSkin.jpg/revision/latest?cb=20190701214425",
+		 "name":"Demacia Vice Garen",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/00/Garen_DemaciaViceSkin.jpg/revision/latest?cb=20190701214810",
 		 "oldprice":"1350",
 		 "newprice":"975"
 		},
 		{
-		 "name":"Dark Star Shaco",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/17/Shaco_DarkStarSkin.jpg/revision/latest?cb=20190529201403",
+		 "name":"Eternum Cassiopeia",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/45/Cassiopeia_EternumSkin.jpg/revision/latest?cb=20181021080632",
 		 "oldprice":"1350",
-		 "newprice":"975"
+		 "newprice":"944"
 		},
 		{
-		 "name":"Papercraft Anivia",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/15/Anivia_PapercraftSkin.jpg/revision/latest?cb=20190208202530",
+		 "name":"Divine Sword Irelia",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bb/Irelia_DivineSwordSkin.jpg/revision/latest?cb=20180814200210",
+		 "oldprice":"1350",
+		 "newprice":"877"
+		},
+		{
+		 "name":"Pizza Delivery Sivir",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a2/Sivir_PizzaDeliverySkin.jpg/revision/latest?cb=20181021032855",
+		 "oldprice":"1350",
+		 "newprice":"810"
+		},
+		{
+		 "name":"Pulsefire Twisted Fate",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/24/Twisted_Fate_PulsefireSkin.jpg/revision/latest?cb=20181021071444",
+		 "oldprice":"1350",
+		 "newprice":"810"
+		},
+		{
+		 "name":"Badlands Baron Rumble",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Rumble_BadlandsBaronSkin.jpg/revision/latest?cb=20181021060805",
+		 "oldprice":"1350",
+		 "newprice":"742"
+		},
+		{
+		 "name":"Ashenlord Aurelion Sol",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0c/Aurelion_Sol_AshenLordSkin.jpg/revision/latest?cb=20181021121722",
 		 "oldprice":"1350",
 		 "newprice":"675"
 		},
 		{
-		 "name":"Forsaken Jayce",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a2/Jayce_ForsakenSkin.jpg/revision/latest?cb=20181021045221",
+		 "name":"Cosmic Dusk Xayah",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a0/Xayah_CosmicDuskSkin.jpg/revision/latest?cb=20181021024608",
 		 "oldprice":"1350",
-		 "newprice":"675"
+		 "newprice":"750"
 		},
 		{
-		 "name":"Arcade Sona",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/75/Sona_ArcadeSkin.jpg/revision/latest?cb=20181021040730",
+		 "name":"Steel Legion Garen",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1d/Garen_SteelLegionSkin.jpg/revision/latest?cb=20181021055551",
 		 "oldprice":"1350",
-		 "newprice":"675"
+		 "newprice":"540"
 		},
 		{
-		 "name":"Arctic Warfare Caitlyn",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f8/Caitlyn_ArcticWarfareSkin.jpg/revision/latest?cb=20181021025438",
-		 "oldprice":"750",
-		 "newprice":"562"
-		},
-		{
-		 "name":"Dragonwing Corki",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c3/Corki_OriginalSkin.jpg/revision/latest?cb=20181021103609",
+		 "name":"Nurse Akali",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/38/Akali_NurseSkin.jpg/revision/latest?cb=20180717205311",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Bioforge Darius",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f4/Darius_BioforgeSkin.jpg/revision/latest?cb=20181021063324",
+		 "name":"Mafia Jinx",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/42/Jinx_MafiaSkin.jpg/revision/latest?cb=20181021043617",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Captain Gangplank",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/38/Gangplank_CaptainSkin.jpg/revision/latest?cb=20190709022618",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Wolrd Breaker Nasus",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d1/Nasus_WorldbreakerSkin.jpg/revision/latest?cb=20181021024500",
-		 "oldprice":"750",
-		 "newprice":"375"
-		},
-		{
-		 "name":"Darkforge Jarvan IV",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/45/Jarvan_IV_DarkforgeSkin.jpg/revision/latest?cb=20181021104821",
+		 "name":"Jurassic Cho'Gath",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/26/Cho%27Gath_JurassicSkin.jpg/revision/latest?cb=20181021073038",
 		 "oldprice":"975",
 		 "newprice":"438"
 		},
 		{
-		 "name":"Renektoy",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/34/Renekton_RenektoySkin.jpg/revision/latest?cb=20181021034335",
+		 "name":"Wicked LeBlanc",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/05/LeBlanc_WickedSkin.jpg/revision/latest?cb=20181021190700",
 		 "oldprice":"750",
-		 "newprice":"375"
+		 "newprice":"300"
 		},
 		{
-		 "name":"Statue of Karthus",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9e/Karthus_StatueofKarthusSkin.jpg/revision/latest?cb=20181021034814",
+		 "name":"Ace of Spades Ezreal",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b9/Ezreal_AceofSpadesSkin.jpg/revision/latest?cb=20190530131539",
+		 "oldprice":"750",
+		 "newprice":"337"
+		},
+		{
+		 "name":"Dryad Soraka",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1a/Soraka_DryadSkin.jpg/revision/latest?cb=20181021023456",
 		 "oldprice":"520",
 		 "newprice":"260"
-		},
-		{
-		 "name":"Shadow Prince Malzahar",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b1/Malzahar_ShadowPrinceSkin.jpg/revision/latest?cb=20181021101930",
-		 "oldprice":"520",
-		 "newprice":"233"
-		},
-		{
-		 "name":"Mad Hatter Shaco",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e2/Shaco_MadHatterSkin.jpg/revision/latest?cb=20181021060547",
-		 "oldprice":"520",
-		 "newprice":"233"
 		}
 	],
-	"period":"December 23rd, 2019 - December 30th, 2019"
+	"period":"January 13th, 2020 - January 21th, 2020"
 }
