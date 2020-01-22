@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Neeko",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
-		 "oldprice":"975",
-		 "newprice":"731"
-		},
-		{
-		 "name":"Braum",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
-		 "oldprice":"975",
-		 "newprice":"682"
-		},
-		{
-		 "name":"Leona",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg",
+		 "name":"Brand",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
 		 "oldprice":"880",
 		 "newprice":"440"
 		},
 		{
-		 "name":"Lissandra",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg",
+		 "name":"Renekton",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg",
 		 "oldprice":"880",
 		 "newprice":"440"
 		},
 		{
-		 "name":"Morgana",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_0.jpg",
-		 "oldprice":"585",
-		 "newprice":"292"
+		 "name":"Wukong",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Wukong_0.jpg",
+		 "oldprice":"880",
+		 "newprice":"440"
 		},
 		{
-		 "name":"Demacia Vice Garen",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/00/Garen_DemaciaViceSkin.jpg/revision/latest?cb=20190701214810",
-		 "oldprice":"1350",
-		 "newprice":"975"
-		},
-		{
-		 "name":"Eternum Cassiopeia",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/45/Cassiopeia_EternumSkin.jpg/revision/latest?cb=20181021080632",
-		 "oldprice":"1350",
-		 "newprice":"944"
-		},
-		{
-		 "name":"Divine Sword Irelia",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bb/Irelia_DivineSwordSkin.jpg/revision/latest?cb=20180814200210",
-		 "oldprice":"1350",
-		 "newprice":"877"
-		},
-		{
-		 "name":"Pizza Delivery Sivir",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a2/Sivir_PizzaDeliverySkin.jpg/revision/latest?cb=20181021032855",
-		 "oldprice":"1350",
-		 "newprice":"810"
-		},
-		{
-		 "name":"Pulsefire Twisted Fate",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/24/Twisted_Fate_PulsefireSkin.jpg/revision/latest?cb=20181021071444",
-		 "oldprice":"1350",
-		 "newprice":"810"
-		},
-		{
-		 "name":"Badlands Baron Rumble",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Rumble_BadlandsBaronSkin.jpg/revision/latest?cb=20181021060805",
-		 "oldprice":"1350",
-		 "newprice":"742"
-		},
-		{
-		 "name":"Ashenlord Aurelion Sol",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0c/Aurelion_Sol_AshenLordSkin.jpg/revision/latest?cb=20181021121722",
-		 "oldprice":"1350",
-		 "newprice":"675"
-		},
-		{
-		 "name":"Cosmic Dusk Xayah",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a0/Xayah_CosmicDuskSkin.jpg/revision/latest?cb=20181021024608",
-		 "oldprice":"1350",
-		 "newprice":"750"
-		},
-		{
-		 "name":"Steel Legion Garen",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1d/Garen_SteelLegionSkin.jpg/revision/latest?cb=20181021055551",
-		 "oldprice":"1350",
-		 "newprice":"540"
-		},
-		{
-		 "name":"Nurse Akali",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/38/Akali_NurseSkin.jpg/revision/latest?cb=20180717205311",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Mafia Jinx",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/42/Jinx_MafiaSkin.jpg/revision/latest?cb=20181021043617",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Jurassic Cho'Gath",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/26/Cho%27Gath_JurassicSkin.jpg/revision/latest?cb=20181021073038",
+		 "name":"Aurelion Sol",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
 		 "oldprice":"975",
 		 "newprice":"438"
 		},
 		{
-		 "name":"Wicked LeBlanc",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/05/LeBlanc_WickedSkin.jpg/revision/latest?cb=20181021190700",
-		 "oldprice":"750",
-		 "newprice":"300"
+		 "name":"Akali",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
+		 "oldprice":"790",
+		 "newprice":"434"
 		},
 		{
-		 "name":"Ace of Spades Ezreal",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b9/Ezreal_AceofSpadesSkin.jpg/revision/latest?cb=20190530131539",
-		 "oldprice":"750",
-		 "newprice":"337"
+		 "name":"Elderwood Veigar",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f8/Veigar_ElderwoodSkin.jpg/revision/latest?cb=20190813232853",
+		 "oldprice":"1350",
+		 "newprice":"975"
 		},
 		{
-		 "name":"Dryad Soraka",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1a/Soraka_DryadSkin.jpg/revision/latest?cb=20181021023456",
+		 "name":"Dark Waters Vladimir",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4c/Vladimir_DarkWatersSkin.jpg/revision/latest?cb=20181021052342",
+		 "oldprice":"1350",
+		 "newprice":"742"
+		},
+		{
+		 "name":"High Noon Jhin",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Jhin_HighNoonSkin.jpg/revision/latest?cb=20181021024937",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Omega Squad Twitch",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/be/Twitch_OmegaSquadSkin.jpg/revision/latest?cb=20181021073953",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Pool Party Ziggs",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/18/Ziggs_PoolPartySkin.jpg/revision/latest?cb=20181021032327",
+		 "oldprice":"1350",
+		 "newprice":"675"
+		},
+		{
+		 "name":"Bloodstone Lissandra",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/aa/Lissandra_BloodstoneSkin.jpg/revision/latest?cb=20181021093555",
+		 "oldprice":"975",
+		 "newprice":"585"
+		},
+		{
+		 "name":"Battleborn Kayle",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Kayle_BattlebornSkin.jpg/revision/latest?cb=20190225212350",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Ironside Malphite",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Malphite_IronsideSkin.jpg/revision/latest?cb=20181021020902",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Charred Maokai",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3f/Maokai_CharredSkin.jpg/revision/latest?cb=20181021035355",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Warring Kingdoms Nidalee",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/77/Nidalee_WarringKingdomsSkin.jpg/revision/latest?cb=20181021075241",
+		 "oldprice":"975",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Beast Hunter Tryndamere",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/34/Tryndamere_BeastHunterSkin.jpg/revision/latest?cb=20181021024248",
+		 "oldprice":"750",
+		 "newprice":"487"
+		},
+		{
+		 "name":"Debonair Ezreal",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7e/Ezreal_DebonairSkin.jpg/revision/latest?cb=20180926204724",
+		 "oldprice":"750",
+		 "newprice":"412"
+		},
+		{
+		 "name":"Hazmat Heimerdinger",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a5/Heimerdinger_HazmatSkin.jpg/revision/latest?cb=20181021073316",
+		 "oldprice":"975",
+		 "newprice":"390"
+		},
+		{
+		 "name":"Frostblade Irelia",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a3/Irelia_FrostbladeSkin.jpg/revision/latest?cb=20181021060038",
+		 "oldprice":"975",
+		 "newprice":"390"
+		},
+		{
+		 "name":"Enchanted Galio",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Galio_EnchantedSkin.jpg/revision/latest?cb=20181021044421",
 		 "oldprice":"520",
-		 "newprice":"260"
+		 "newprice":"233"
 		}
 	],
-	"period":"January 13th, 2020 - January 21th, 2020"
+	"period":"January 21st, 2020 - January 28th, 2020"
 }
