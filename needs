@@ -2,35 +2,11 @@
 {
 	sales:[
 		{
-		 "name":"Mecha Kingdoms Jax",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/dc/Jax_MechaKingdomsSkin.jpg/revision/latest?cb=20191212014011",
+		 "name":"Heartseeker Jinx & Yuumi",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6f/Jinx_HeartseekerSkin.jpg/revision/latest?cb=20200123005242",
 		 "oldprice":"",
 		 "newprice":""
 		},
-		{
-		 "name":"Mecha Kingdoms Leona",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6a/Leona_MechaKingdomsSkin.jpg/revision/latest?cb=20191212014041",
-		 "oldprice":"",
-		 "newprice":""
-		}, 
-		{
-		 "name":"Mecha Kingdoms Garen",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Garen_MechaKingdomsSkin.jpg/revision/latest?cb=20191212013930",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Mecha Kingdoms Garen Prestige Edition",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Garen_PrestigeMechaKingdomsSkin.jpg/revision/latest?cb=20191212234308",
-		 "oldprice":"",
-		 "newprice":""
-		}, 
-		{
-		 "name":"Mecha Kingdoms Sett",
-		 "image":"https://cdn.vox-cdn.com/thumbor/NE0tCZu2xGAwnSsZpXZYS1dYe_c=/0x0:1215x717/920x0/filters:focal(0x0:1215x717):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19486576/Sett_Splash_1.jpg",
-		 "oldprice":"",
-		 "newprice":""
-		}, 
 		{
 		 "name":"Dragonslayer Olaf & Diana",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/31/Diana_DragonslayerSkin.jpg/revision/latest?cb=20191212015024",
@@ -40,18 +16,6 @@
 		{
 		 "name":"Dragonslayer Trundle",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d9/Trundle_DragonslayerSkin.jpg/revision/latest?cb=20191216204707",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Guardian of the Sands Ryze, Rengar & Janna",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fd/Janna_GuardianoftheSandsSkin.jpg/revision/latest?cb=20191216204603",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Mecha Kingdoms Draven",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/48/Draven_MechaKingdomsSkin.jpg/revision/latest?cb=20191217215607",
 		 "oldprice":"",
 		 "newprice":""
 		}
