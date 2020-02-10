@@ -2,20 +2,20 @@
 {
 	sales:[
 		{
-		 "name":"Heartseeker Jinx & Yuumi",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6f/Jinx_HeartseekerSkin.jpg/revision/latest?cb=20200123005242",
+		 "name":"Blood Moon Katarina",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/51/Katarina_BloodMoonSkin.jpg/revision/latest?cb=20200204220403",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Dragonslayer Olaf & Diana",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/31/Diana_DragonslayerSkin.jpg/revision/latest?cb=20191212015024",
+		 "name":"Blood Moon Master Yi",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b1/Master_Yi_BloodMoonSkin.jpg/revision/latest?cb=20200204220708",
 		 "oldprice":"",
 		 "newprice":""
 		}, 
 		{
-		 "name":"Dragonslayer Trundle",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d9/Trundle_DragonslayerSkin.jpg/revision/latest?cb=20191216204707",
+		 "name":"Blood Moon Tryndamere",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/34/Tryndamere_BloodMoonSkin.jpg/revision/latest?cb=20200206205457",
 		 "oldprice":"",
 		 "newprice":""
 		}
