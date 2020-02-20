@@ -2,6 +2,30 @@
 {
 	sales:[
 		{
+		 "name":"Hextech Sejuani",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/32/Sejuani_HextechSkin.jpg/revision/latest?cb=20200219200507",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Blackfrost Renekton",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7f/Renekton_BlackfrostSkin.jpg/revision/latest?cb=20200219200734",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Blackfrost Rek'Sai",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6d/Rek%27Sai_BlackfrostSkin.jpg/revision/latest?cb=20200219200425",
+		 "oldprice":"",
+		 "newprice":""
+		}, 
+		{
+		 "name":"Blackfrost Alistar",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/19/Alistar_BlackfrostSkin.jpg/revision/latest?cb=20200219200825",
+		 "oldprice":"",
+		 "newprice":""
+		}, 
+		{
 		 "name":"Blood Moon Katarina",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/51/Katarina_BloodMoonSkin.jpg/revision/latest?cb=20200204220403",
 		 "oldprice":"",
