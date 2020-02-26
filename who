@@ -1,125 +1,125 @@
 {
 	sales:[
 		{
-		 "name":"Vel'Koz",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg",
+		 "name":"Zed",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg",
 		 "oldprice":"975",
-		 "newprice":"536"
+		 "newprice":"390"
 		},
 		{
-		 "name":"Diana",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg",
+		 "name":"Blitzcrank",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
 		 "oldprice":"880",
 		 "newprice":"528"
 		},
 		{
-		 "name":"Karma",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_0.jpg",
+		 "name":"Ziggs",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg",
 		 "oldprice":"790",
 		 "newprice":"395"
 		},
 		{
-		 "name":"Thresh",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
+		 "name":"Quinn",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg",
 		 "oldprice":"880",
 		 "newprice":"395"
 		},
 		{
-		 "name":"Varus",
-		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg",
+		 "name":"Viktor",
+		 "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg",
 		 "oldprice":"880",
 		 "newprice":"395"
 		},
 		{
-		 "name":"Arcade Corki",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6b/Corki_ArcadeSkin.jpg/revision/latest?cb=20181021031541",
-		 "oldprice":"1350",
-		 "newprice":"975"
-		},
-		{
-		 "name":"Thunder Lord Ornn",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d5/Ornn_ThunderLordSkin.jpg/revision/latest?cb=20181021044318",
-		 "oldprice":"1350",
-		 "newprice":"742"
-		},
-		{
-		 "name":"Muay Thai Lee Sin",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/89/Lee_Sin_MuayThaiSkin.jpg/revision/latest?cb=20181021075358",
-		 "oldprice":"975",
-		 "newprice":"633"
-		},
-		{
-		 "name":"Dragonslayer Pantheon",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/98/Pantheon_DragonslayerSkin.jpg/revision/latest?cb=20190730201029",
+		 "name":"El Tigre Braum",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c9/Braum_ElTigreSkin.jpg/revision/latest?cb=20181021072404",
 		 "oldprice":"1350",
 		 "newprice":"607"
 		},
 		{
-		 "name":"Woad Scout Quinn",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9d/Quinn_WoadScoutSkin.jpg/revision/latest?cb=20181021024317",
+		 "name":"Boom Boom Blitzcrank",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/aa/Blitzcrank_BoomBoomSkin.jpg/revision/latest?cb=20181021055612",
+		 "oldprice":"520",
+		 "newprice":"208"
+		},
+		{
+		 "name":"Arctic Ops Varus",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7c/Varus_ArcticOpsSkin.jpg/revision/latest?cb=20181021073654",
+		 "oldprice":"1350",
+		 "newprice":"877"
+		},
+		{
+		 "name":"PROJECT: Jhin",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/ab/Jhin_PROJECTSkin.jpg/revision/latest?cb=20181021061227",
+		 "oldprice":"1350",
+		 "newprice":"742"
+		},
+		{
+		 "name":"Jaximus",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a1/Jax_JaximusSkin.jpg/revision/latest?cb=20181021104517",
+		 "oldprice":"975",
+		 "newprice":"390"
+		},
+		{
+		 "name":"Warring Kingdoms Katarina",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cf/Katarina_WarringKingdomsSkin.jpg/revision/latest?cb=20181021071352",
+		 "oldprice":"975",
+		 "newprice":"390"
+		},
+		{
+		 "name":"Frost Queen Janna",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ef/Janna_FrostQueenSkin.jpg/revision/latest?cb=20181021014356",
 		 "oldprice":"975",
 		 "newprice":"585"
 		},
 		{
-		 "name":"Grim Reaper Karthus",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d8/Karthus_GrimReaperSkin.jpg/revision/latest?cb=20181021095309",
+		 "name":"Knockout Lee Sin",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2d/Lee_Sin_KnockoutSkin.jpg/revision/latest?cb=20181021093511",
+		 "oldprice":"1350",
+		 "newprice":"608"
+		},
+		{
+		 "name":"Popstar Ahri",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/14/Ahri_PopstarSkin.jpg/revision/latest?cb=20181021014940",
+		 "oldprice":"975",
+		 "newprice":"390"
+		},
+		{
+		 "name":"Divine Soraka",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a0/Soraka_DivineSkin.jpg/revision/latest?cb=20181021033440",
 		 "oldprice":"975",
 		 "newprice":"487"
 		},
 		{
-		 "name":"Harbringer Kassadin",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a3/Kassadin_HarbingerSkin.jpg/revision/latest?cb=20181021201259",
-		 "oldprice":"975",
-		 "newprice":"487"
-		},
-		{
-		 "name":"Sashimi Akali",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ea/Akali_SashimiSkin.jpg/revision/latest?cb=20190730204227",
+		 "name":"Beast Hunter Sejuani",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a5/Sejuani_BeastHunterSkin.jpg/revision/latest?cb=20181021024207",
 		 "oldprice":"750",
-		 "newprice":"450"
+		 "newprice":"337"
 		},
 		{
-		 "name":"Sultan Gangplank",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/38/Gangplank_SultanSkin.jpg/revision/latest?cb=20181021105318",
-		 "oldprice":"975",
-		 "newprice":"438"
-		},
-		{
-		 "name":"Black Scourge Singed",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/99/Singed_BlackScourgeSkin.jpg/revision/latest?cb=20190222222600",
-		 "oldprice":"750",
-		 "newprice":"412"
-		},
-		{
-		 "name":"Frozen Terror Nocturne",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Nocturne_FrozenTerrorSkin.jpg/revision/latest?cb=20181021101257",
+		 "name":"Order of the Lotus Karma",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/41/Karma_OrderoftheLotusSkin.jpg/revision/latest?cb=20181021022736",
 		 "oldprice":"975",
 		 "newprice":"390"
 		},
 		{
-		 "name":"Sandscourge Skarner",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/be/Skarner_SandscourgeSkin.jpg/revision/latest?cb=20181021104901",
+		 "name":"Reverse Annie",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f8/Annie_ReverseSkin.jpg/revision/latest?cb=20181021091951,
 		 "oldprice":"975",
-		 "newprice":"390"
+		 "newprice":"585"
 		},
 		{
-		 "name":"Rocket Girl Tristana",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fd/Tristana_RocketGirlSkin.jpg/revision/latest?cb=20181021073439",
-		 "oldprice":"975",
-		 "newprice":"390"
+		 "name":"K/DA Evelynn",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c3/Evelynn_KDASkin.jpg/revision/latest?cb=20181009200116",
+		 "oldprice":"1350",
+		 "newprice":"810"
 		},
 		{
-		 "name":"Royal Shaco",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7e/Shaco_RoyalSkin.jpg/revision/latest?cb=20181021062449",
-		 "oldprice":"520",
-		 "newprice":"233"
-		},
-		{
-		 "name":"Aristokrat Vayne",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/97/Vayne_AristocratSkin.jpg/revision/latest?cb=20181021121237",
+		 "name":"Warrior Princess Sivir",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/28/Sivir_WarriorPrincessSkin.jpg/revision/latest?cb=20181021032959",
 		 "oldprice":"520",
 		 "newprice":"208"
 		}
 	],
-	"period":"February 11th, 2020 - February 18th, 2020"
+	"period":"February 26th, 2020 - March 3rd, 2020"
 }
