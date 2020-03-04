@@ -2,6 +2,54 @@
 {
 	sales:[
 		{
+		 "name":"Dark Cosmic Lux",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Lux_DarkCosmicSkin.jpg/revision/latest?cb=20200303232138",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Cosmic Lux",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/aa/Lux_CosmicSkin.jpg/revision/latest?cb=20200303232220",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Dark Star Malphite",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b3/Malphite_DarkStarSkin.jpg/revision/latest?cb=20200303232314",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Dark Star Mordekaiser",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/75/Mordekaiser_DarkStarSkin.jpg/revision/latest?cb=20200303232344",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Dark Star Xerath",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ef/Xerath_DarkStarSkin.jpg/revision/latest?cb=20200303233122",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Twitch Shadowfoot",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/14/Twitch_TwitchShadowfootSkin.jpg/revision/latest?cb=20200303232620",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Taric Luminshield",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/11/Taric_TaricLuminshieldSkin.jpg/revision/latest?cb=20200303232534",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Talon Blackwood",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/29/Talon_TalonBlackwoodSkin.jpg/revision/latest?cb=20200303232418",
+		 "oldprice":"",
+		 "newprice":""
+		}, 
+		{
 		 "name":"Hextech Sejuani",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/32/Sejuani_HextechSkin.jpg/revision/latest?cb=20200219200507",
 		 "oldprice":"",
@@ -22,24 +70,6 @@
 		{
 		 "name":"Blackfrost Alistar",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/19/Alistar_BlackfrostSkin.jpg/revision/latest?cb=20200219200825",
-		 "oldprice":"",
-		 "newprice":""
-		}, 
-		{
-		 "name":"Blood Moon Katarina",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/51/Katarina_BloodMoonSkin.jpg/revision/latest?cb=20200204220403",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Blood Moon Master Yi",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b1/Master_Yi_BloodMoonSkin.jpg/revision/latest?cb=20200204220708",
-		 "oldprice":"",
-		 "newprice":""
-		}, 
-		{
-		 "name":"Blood Moon Tryndamere",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/34/Tryndamere_BloodMoonSkin.jpg/revision/latest?cb=20200206205457",
 		 "oldprice":"",
 		 "newprice":""
 		}
