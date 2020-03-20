@@ -2,6 +2,42 @@
 {
 	sales:[
 		{
+		 "name":"Dark Star Malphite Prestige Edition",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ef/Malphite_PrestigeDarkStarSkin.jpg/revision/latest?cb=20200311222726",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Pengu Cosplay Tristana",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a9/Tristana_PenguCosplaySkin.jpg/revision/latest?cb=20200317215451",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Furyhorn Cosplay Veigar",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/40/Veigar_FuryhornCosplaySkin.jpg/revision/latest?cb=20200317215601",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Worldbreaker Maoikai",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ce/Maokai_WorldbreakerSkin.jpg/revision/latest?cb=20200317215322",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Worldbreaker Malzahar",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/14/Malzahar_WorldbreakerSkin.jpg/revision/latest?cb=20200317215131",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Worldbreaker Sion",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Sion_WorldbreakerSkin.jpg/revision/latest?cb=20200317215354",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
 		 "name":"Dark Cosmic Lux",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Lux_DarkCosmicSkin.jpg/revision/latest?cb=20200303232138",
 		 "oldprice":"",
@@ -28,24 +64,6 @@
 		{
 		 "name":"Dark Star Xerath",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ef/Xerath_DarkStarSkin.jpg/revision/latest?cb=20200303233122",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Twitch Shadowfoot",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/14/Twitch_TwitchShadowfootSkin.jpg/revision/latest?cb=20200303232620",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Taric Luminshield",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/11/Taric_TaricLuminshieldSkin.jpg/revision/latest?cb=20200303232534",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Talon Blackwood",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/29/Talon_TalonBlackwoodSkin.jpg/revision/latest?cb=20200303232418",
 		 "oldprice":"",
 		 "newprice":""
 		}
