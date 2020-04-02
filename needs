@@ -2,8 +2,26 @@
 {
 	sales:[
 		{
-		 "name":"Dark Star Malphite Prestige Edition",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ef/Malphite_PrestigeDarkStarSkin.jpg/revision/latest?cb=20200311222726",
+		 "name":"Coven LeBlanc",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e6/LeBlanc_CovenSkin.jpg/revision/latest?cb=20200331191931",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Coven Morgana",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/da/Morgana_CovenSkin.jpg/revision/latest?cb=20200331192026",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Coven Zyra",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/77/Zyra_CovenSkin.jpg/revision/latest?cb=20200331192450",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Coven Zyra Prestige Edition",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fe/Zyra_PrestigeCovenSkin.jpg/revision/latest?cb=20200401195025",
 		 "oldprice":"",
 		 "newprice":""
 		},
@@ -34,36 +52,6 @@
 		{
 		 "name":"Worldbreaker Sion",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Sion_WorldbreakerSkin.jpg/revision/latest?cb=20200317215354",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Dark Cosmic Lux",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Lux_DarkCosmicSkin.jpg/revision/latest?cb=20200303232138",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Cosmic Lux",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/aa/Lux_CosmicSkin.jpg/revision/latest?cb=20200303232220",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Dark Star Malphite",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b3/Malphite_DarkStarSkin.jpg/revision/latest?cb=20200303232314",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Dark Star Mordekaiser",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/75/Mordekaiser_DarkStarSkin.jpg/revision/latest?cb=20200303232344",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Dark Star Xerath",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ef/Xerath_DarkStarSkin.jpg/revision/latest?cb=20200303233122",
 		 "oldprice":"",
 		 "newprice":""
 		}
