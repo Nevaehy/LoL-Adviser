@@ -2,56 +2,8 @@
 {
 	sales:[
 		{
-		 "name":"Coven LeBlanc",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e6/LeBlanc_CovenSkin.jpg/revision/latest?cb=20200331191931",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Coven Morgana",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/da/Morgana_CovenSkin.jpg/revision/latest?cb=20200331192026",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Coven Zyra",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/77/Zyra_CovenSkin.jpg/revision/latest?cb=20200331192450",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Coven Zyra Prestige Edition",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fe/Zyra_PrestigeCovenSkin.jpg/revision/latest?cb=20200401195025",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Pengu Cosplay Tristana",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a9/Tristana_PenguCosplaySkin.jpg/revision/latest?cb=20200317215451",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Furyhorn Cosplay Veigar",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/40/Veigar_FuryhornCosplaySkin.jpg/revision/latest?cb=20200317215601",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Worldbreaker Maokai",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ce/Maokai_WorldbreakerSkin.jpg/revision/latest?cb=20200317215322",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Worldbreaker Malzahar",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/14/Malzahar_WorldbreakerSkin.jpg/revision/latest?cb=20200317215131",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Worldbreaker Sion",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Sion_WorldbreakerSkin.jpg/revision/latest?cb=20200317215354",
+		 "name":"FPX Malphite, Gangplank, Lee Sin, Vayne, Thresh",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Vayne_FPXSkin.jpg/revision/latest?cb=20200414212854",
 		 "oldprice":"",
 		 "newprice":""
 		}
