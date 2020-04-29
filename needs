@@ -6,6 +6,30 @@
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Vayne_FPXSkin.jpg/revision/latest?cb=20200414212854",
 		 "oldprice":"",
 		 "newprice":""
+		},
+		{
+		 "name":"Pulsefire Lucian",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bf/Lucian_PulsefireSkin.jpg/revision/latest?cb=20200428191754",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Pulsefire Ekko",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3a/Ekko_PulsefireSkin.jpg/revision/latest?cb=20200428191536",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Pulsefire Pantheon",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8f/Pantheon_PulsefireSkin.jpg/revision/latest?cb=20200428191649",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Pulsefire Fiora",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/92/Fiora_PulsefireSkin.jpg/revision/latest?cb=20200428191728",
+		 "oldprice":"",
+		 "newprice":""
 		}
 	],
 	"period":""
