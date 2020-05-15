@@ -2,32 +2,20 @@
 {
 	sales:[
 		{
-		 "name":"FPX Malphite, Gangplank, Lee Sin, Vayne, Thresh",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Vayne_FPXSkin.jpg/revision/latest?cb=20200414212854",
+		 "name":"Astronaut Gnar and Poppy",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Gnar_AstronautSkin.jpg/revision/latest?cb=20200512193852",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Pulsefire Lucian",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bf/Lucian_PulsefireSkin.jpg/revision/latest?cb=20200428191754",
+		 "name":"Astronaut Bard",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cf/Bard_AstronautSkin.jpg/revision/latest?cb=20200512193548",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Pulsefire Ekko",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3a/Ekko_PulsefireSkin.jpg/revision/latest?cb=20200428191536",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Pulsefire Pantheon",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8f/Pantheon_PulsefireSkin.jpg/revision/latest?cb=20200428191649",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Pulsefire Fiora",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/92/Fiora_PulsefireSkin.jpg/revision/latest?cb=20200428191728",
+		 "name":"Thousand Pierced Volibear",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a9/Volibear_ThousandPiercedSkin.jpg/revision/latest?cb=20200512191955",
 		 "oldprice":"",
 		 "newprice":""
 		}
