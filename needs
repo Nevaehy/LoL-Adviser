@@ -2,20 +2,14 @@
 {
 	sales:[
 		{
-		 "name":"Astronaut Gnar and Poppy",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Gnar_AstronautSkin.jpg/revision/latest?cb=20200512193852",
+		 "name":"Hextech Nocturne",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fe/Nocturne_HextechSkin.jpg/revision/latest?cb=20200527194142",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Astronaut Bard",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cf/Bard_AstronautSkin.jpg/revision/latest?cb=20200512193548",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Thousand Pierced Volibear",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a9/Volibear_ThousandPiercedSkin.jpg/revision/latest?cb=20200512191955",
+		 "name":"High Noon Senna",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/78/Senna_HighNoonSkin.jpg/revision/latest?cb=20200527192939",
 		 "oldprice":"",
 		 "newprice":""
 		}
