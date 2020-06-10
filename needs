@@ -2,14 +2,14 @@
 {
 	sales:[
 		{
-		 "name":"Hextech Nocturne",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fe/Nocturne_HextechSkin.jpg/revision/latest?cb=20200527194142",
+		 "name":"Pool Party Orianna & Taliyah",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/67/Taliyah_PoolPartySkin.jpg/revision/latest?cb=20200609195738",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"High Noon Senna",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/7/78/Senna_HighNoonSkin.jpg/revision/latest?cb=20200527192939",
+		 "name":"Pool Party Syndra, Heimerdinger & Jarvan IV",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8f/Jarvan_IV_PoolPartySkin.jpg/revision/latest?cb=20200609195531",
 		 "oldprice":"",
 		 "newprice":""
 		}
