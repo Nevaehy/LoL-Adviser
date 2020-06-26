@@ -2,14 +2,44 @@
 {
 	sales:[
 		{
-		 "name":"Pool Party Orianna & Taliyah",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/67/Taliyah_PoolPartySkin.jpg/revision/latest?cb=20200609195738",
+		 "name":"Arcanist Zoe",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5b/Zoe_ArcanistSkin.jpg/revision/latest?cb=20200623221654",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Pool Party Syndra, Heimerdinger & Jarvan IV",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8f/Jarvan_IV_PoolPartySkin.jpg/revision/latest?cb=20200609195531",
+		 "name":"Arcanist Zoe Prestige Edition",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/97/Zoe_PrestigeArcanistSkin.jpg/revision/latest?cb=20200623221750",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Arcanist Kog'Maw",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4e/Kog%27Maw_ArcanistSkin.jpg/revision/latest?cb=20200623221838",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Arcanist Shaco",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1b/Shaco_ArcanistSkin.jpg/revision/latest?cb=20200623221941",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Infernal Karthus and Kennen",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/20/Kennen_InfernalSkin.jpg/revision/latest?cb=20200623222211",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Infernal Vel'Koz",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/21/Vel%27Koz_InfernalSkin.jpg/revision/latest?cb=20200623221523",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Conqueror Nautilus",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f5/Nautilus_ConquerorSkin.jpg/revision/latest?cb=20200623222043",
 		 "oldprice":"",
 		 "newprice":""
 		}
