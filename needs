@@ -2,44 +2,38 @@
 {
 	sales:[
 		{
-		 "name":"Arcanist Zoe",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5b/Zoe_ArcanistSkin.jpg/revision/latest?cb=20200623221654",
+		 "name":"Spirit Blossom Lillia",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/54/Lillia_SpiritBlossomSkin.jpg/revision/latest?cb=20200707201546",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Arcanist Zoe Prestige Edition",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/97/Zoe_PrestigeArcanistSkin.jpg/revision/latest?cb=20200623221750",
+		 "name":"Spirit Blossom Vayne",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e6/Vayne_SpiritBlossomSkin.jpg/revision/latest?cb=20200707202118",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Arcanist Kog'Maw",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4e/Kog%27Maw_ArcanistSkin.jpg/revision/latest?cb=20200623221838",
+		 "name":"Spirit Blossom Thresh",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/47/Thresh_SpiritBlossomSkin.jpg/revision/latest?cb=20200707202214",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Arcanist Shaco",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1b/Shaco_ArcanistSkin.jpg/revision/latest?cb=20200623221941",
+		 "name":"Spirit Blossom Yasuo",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Yasuo_SpiritBlossomSkin.jpg/revision/latest?cb=20200707201920",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Infernal Karthus and Kennen",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/20/Kennen_InfernalSkin.jpg/revision/latest?cb=20200623222211",
+		 "name":"Spirit Blossom Teemo",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/62/Teemo_SpiritBlossomSkin.jpg/revision/latest?cb=20200707202018",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Infernal Vel'Koz",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/21/Vel%27Koz_InfernalSkin.jpg/revision/latest?cb=20200623221523",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Conqueror Nautilus",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f5/Nautilus_ConquerorSkin.jpg/revision/latest?cb=20200623222043",
+		 "name":"Spirit Blossom Teemo Prestige Edition",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6b/Teemo_PrestigeSpiritBlossomSkin.jpg/revision/latest?cb=20200710220245",
 		 "oldprice":"",
 		 "newprice":""
 		}
