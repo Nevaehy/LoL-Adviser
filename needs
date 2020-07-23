@@ -2,6 +2,30 @@
 {
 	sales:[
 		{
+		 "name":"Spirit Blossom Ahri",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/19/Ahri_SpiritBlossomSkin.jpg/revision/latest?cb=20200722230646",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Spirit Blossom Cassiopeia",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/41/Cassiopeia_SpiritBlossomSkin.jpg/revision/latest?cb=20200722230716",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Spirit Blossom Riven",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9e/Riven_SpiritBlossomSkin.jpg/revision/latest?cb=20200722230742",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Spirit Blossom Kindred",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a0/Kindred_SpiritBlossomSkin.jpg/revision/latest?cb=20200722230610",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
 		 "name":"Spirit Blossom Lillia",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/54/Lillia_SpiritBlossomSkin.jpg/revision/latest?cb=20200707201546",
 		 "oldprice":"",
