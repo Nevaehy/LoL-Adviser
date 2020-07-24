@@ -2,6 +2,12 @@
 {
 	sales:[
 		{
+		 "name":"Spirit Blossom Yone",
+		 "image":"https://1.bp.blogspot.com/-o37D7v70pOU/XxsOGSLhMpI/AAAAAAABpaQ/Ozm9wkhG6V8IJnpB9ILR6Y42PHJP3v-KgCLcBGAsYHQ/s1600/Spirit-Blossom-Yone_optimized.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
 		 "name":"Spirit Blossom Ahri",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/19/Ahri_SpiritBlossomSkin.jpg/revision/latest?cb=20200722230646",
 		 "oldprice":"",
