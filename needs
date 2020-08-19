@@ -2,68 +2,26 @@
 {
 	sales:[
 		{
-		 "name":"Spirit Blossom Yone",
-		 "image":"https://1.bp.blogspot.com/-o37D7v70pOU/XxsOGSLhMpI/AAAAAAABpaQ/Ozm9wkhG6V8IJnpB9ILR6Y42PHJP3v-KgCLcBGAsYHQ/s1600/Spirit-Blossom-Yone_optimized.jpg",
+		 "name":"PsyOps Ezreal",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0b/Ezreal_PsyOpsSkin.jpg/revision/latest?cb=20200818223248",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Spirit Blossom Ahri",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/1/19/Ahri_SpiritBlossomSkin.jpg/revision/latest?cb=20200722230646",
+		 "name":"PsyOps Vi",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b1/Vi_PsyOpsSkin.jpg/revision/latest?cb=20200818223500",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Spirit Blossom Cassiopeia",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/41/Cassiopeia_SpiritBlossomSkin.jpg/revision/latest?cb=20200722230716",
+		 "name":"PsyOps Shen",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/42/Shen_PsyOpsSkin.jpg/revision/latest?cb=20200818223343",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Spirit Blossom Riven",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9e/Riven_SpiritBlossomSkin.jpg/revision/latest?cb=20200722230742",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Spirit Blossom Kindred",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a0/Kindred_SpiritBlossomSkin.jpg/revision/latest?cb=20200722230610",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Spirit Blossom Lillia",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/54/Lillia_SpiritBlossomSkin.jpg/revision/latest?cb=20200707201546",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Spirit Blossom Vayne",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e6/Vayne_SpiritBlossomSkin.jpg/revision/latest?cb=20200707202118",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Spirit Blossom Thresh",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/47/Thresh_SpiritBlossomSkin.jpg/revision/latest?cb=20200707202214",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Spirit Blossom Yasuo",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Yasuo_SpiritBlossomSkin.jpg/revision/latest?cb=20200707201920",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Spirit Blossom Teemo",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/62/Teemo_SpiritBlossomSkin.jpg/revision/latest?cb=20200707202018",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Spirit Blossom Teemo Prestige Edition",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6b/Teemo_PrestigeSpiritBlossomSkin.jpg/revision/latest?cb=20200710220245",
+		 "name":"Hextech Ziggs",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d2/Ziggs_HextechSkin.jpg/revision/latest?cb=20200818223424",
 		 "oldprice":"",
 		 "newprice":""
 		}
