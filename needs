@@ -2,6 +2,18 @@
 {
 	sales:[
 		{
+		 "name":"PsyOps Sona",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d6/Sona_PsyOpsSkin.jpg/revision/latest?cb=20200824185310",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"PsyOps Master Yi",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Master_Yi_PsyOpsSkin.jpg/revision/latest?cb=20200824185414",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
 		 "name":"PsyOps Ezreal",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0b/Ezreal_PsyOpsSkin.jpg/revision/latest?cb=20200818223248",
 		 "oldprice":"",
