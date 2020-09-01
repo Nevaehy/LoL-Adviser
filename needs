@@ -2,6 +2,36 @@
 {
 	sales:[
 		{
+		 "name":"PsyOps Pyke",
+		 "image":"http://waifu.clan.su/_ld/5/57958017.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"PsyOps Viktor",
+		 "image":"http://waifu.clan.su/_ld/5/81770333.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"PsyOps Samira",
+		 "image":"http://waifu.clan.su/_ld/5/01738332.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"PsyOps Zed",
+		 "image":"http://waifu.clan.su/_ld/5/02024334.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"PsyOps Kayle",
+		 "image":"http://waifu.clan.su/_ld/5/01248933.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
 		 "name":"PsyOps Sona",
 		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d6/Sona_PsyOpsSkin.jpg/revision/latest?cb=20200824185310",
 		 "oldprice":"",
