@@ -2,6 +2,30 @@
 {
 	sales:[
 		{
+		 "name":"Resistance Singed (in dev)",
+		 "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt98609e82c1d66fde/5f596e7665c9c14aec2fae91/02_Singed_RESIZED.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Dragonmancer Aurelion Sol (in dev) ",
+		 "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt6e49829845ec1047/5f596e5c025cc24b5e0a0326/03_Aurelion_Sol_RESIZED.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Battlecast Zac (in dev)",
+		 "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt889512155f9af95e/5f596e8e806bc7495596d895/04_Zac_RESIZED.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Dragonmancer Lee Sin (in dev)",
+		 "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltef4fb78c2f4a8511/5f52d5fe4c9f7223b8cd95ae/05_Lee_Sin_Splash.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
 		 "name":"PsyOps Pyke",
 		 "image":"http://waifu.clan.su/_ld/5/57958017.jpg",
 		 "oldprice":"",
@@ -28,42 +52,6 @@
 		{
 		 "name":"PsyOps Kayle",
 		 "image":"http://waifu.clan.su/_ld/5/01248933.jpg",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"PsyOps Sona",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d6/Sona_PsyOpsSkin.jpg/revision/latest?cb=20200824185310",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"PsyOps Master Yi",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b6/Master_Yi_PsyOpsSkin.jpg/revision/latest?cb=20200824185414",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"PsyOps Ezreal",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0b/Ezreal_PsyOpsSkin.jpg/revision/latest?cb=20200818223248",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"PsyOps Vi",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b1/Vi_PsyOpsSkin.jpg/revision/latest?cb=20200818223500",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"PsyOps Shen",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/4/42/Shen_PsyOpsSkin.jpg/revision/latest?cb=20200818223343",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Hextech Ziggs",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d2/Ziggs_HextechSkin.jpg/revision/latest?cb=20200818223424",
 		 "oldprice":"",
 		 "newprice":""
 		}
