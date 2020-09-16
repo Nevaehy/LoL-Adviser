@@ -1,57 +1,45 @@
 
 {
-	sales:[
+	sales:[		
+		{
+		 "name":"Eternal Dragon Brand",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Brand_EternalDragonSkin.jpg/revision/latest?cb=20200915195626",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Storm Dragon Aurelion Sol",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/ad/Aurelion_Sol_StormDragonSkin.jpg/revision/latest?cb=20200915195856",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Obsidian Dragon Sett",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2d/Sett_ObsidianDragonSkin.jpg/revision/latest?cb=20200915195944",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Fae Dragon Ashe",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2d/Ashe_FaeDragonSkin.jpg/revision/latest?cb=20200915195808",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Storm Dragon Lee Sin",
+		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/55/Lee_Sin_StormDragonSkin.jpg/revision/latest?cb=20200915195719",
+		 "oldprice":"",
+		 "newprice":""
+		},
 		{
 		 "name":"Resistance Singed (in dev)",
 		 "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt98609e82c1d66fde/5f596e7665c9c14aec2fae91/02_Singed_RESIZED.jpg",
 		 "oldprice":"",
 		 "newprice":""
-		},
-		{
-		 "name":"Dragonmancer Aurelion Sol (in dev) ",
-		 "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt6e49829845ec1047/5f596e5c025cc24b5e0a0326/03_Aurelion_Sol_RESIZED.jpg",
-		 "oldprice":"",
-		 "newprice":""
-		},
+		}
 		{
 		 "name":"Battlecast Zac (in dev)",
 		 "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt889512155f9af95e/5f596e8e806bc7495596d895/04_Zac_RESIZED.jpg",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Dragonmancer Lee Sin (in dev)",
-		 "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltef4fb78c2f4a8511/5f52d5fe4c9f7223b8cd95ae/05_Lee_Sin_Splash.jpg",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"PsyOps Pyke",
-		 "image":"http://waifu.clan.su/_ld/5/57958017.jpg",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"PsyOps Viktor",
-		 "image":"http://waifu.clan.su/_ld/5/81770333.jpg",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"PsyOps Samira",
-		 "image":"http://waifu.clan.su/_ld/5/01738332.jpg",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"PsyOps Zed",
-		 "image":"http://waifu.clan.su/_ld/5/02024334.jpg",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"PsyOps Kayle",
-		 "image":"http://waifu.clan.su/_ld/5/01248933.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		}
