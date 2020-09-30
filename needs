@@ -2,44 +2,32 @@
 {
 	sales:[		
 		{
-		 "name":"Eternal Dragon Brand",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Brand_EternalDragonSkin.jpg/revision/latest?cb=20200915195626",
+		 "name":"Hextech Kassadin",
+		 "image":"https://1.bp.blogspot.com/-4t0h66AwSWw/X3N0hjcWe3I/AAAAAAABs6s/iOUnBwO8esEoMdHnsK08vZ5CuVr2YYM0gCLcBGAsYHQ/s2048/LeagueOfLegends-20200929-134028-1310997890139996161-EjGZnicU0AEIoiQ.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Storm Dragon Aurelion Sol",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/a/ad/Aurelion_Sol_StormDragonSkin.jpg/revision/latest?cb=20200915195856",
+		 "name":"Pumpkin Prince Amumu",
+		 "image":"https://1.bp.blogspot.com/-UJSyFwY2ApY/X3N0iL28PmI/AAAAAAABs64/xwwmVaUBbJogIahT04-XLubFSO6podHbACLcBGAsYHQ/s2048/LeagueOfLegends-20200929-134113-1310998075691864064-EjGZtI8U8AYbrJI.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Obsidian Dragon Sett",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2d/Sett_ObsidianDragonSkin.jpg/revision/latest?cb=20200915195944",
+		 "name":"Bewitching Elise",
+		 "image":"https://1.bp.blogspot.com/-THqHeKbc8s4/X3N0hvQr7cI/AAAAAAABs6w/xyOR3qfP3nYNWlAiZgwGKjhLA0EcdbF1gCLcBGAsYHQ/s2048/LeagueOfLegends-20200929-134113-1310998075691864064-EjGZt8FU4AY-wqN.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Fae Dragon Ashe",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2d/Ashe_FaeDragonSkin.jpg/revision/latest?cb=20200915195808",
+		 "name":"Odyssey Kha'Zix",
+		 "image":"https://1.bp.blogspot.com/-kA_NOy0L160/X3N0hnimk4I/AAAAAAABs60/rJV2PN2i1godowAjW0eggtt8BcZatjsRwCLcBGAsYHQ/s2048/LeagueOfLegends-20200929-130545-1310989152867901440-EjGRpX0U4AAY8p4.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Storm Dragon Lee Sin",
-		 "image":"https://vignette.wikia.nocookie.net/leagueoflegends/images/5/55/Lee_Sin_StormDragonSkin.jpg/revision/latest?cb=20200915195719",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Resistance Singed (in dev)",
-		 "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt98609e82c1d66fde/5f596e7665c9c14aec2fae91/02_Singed_RESIZED.jpg",
-		 "oldprice":"",
-		 "newprice":""
-		},
-		{
-		 "name":"Battlecast Zac (in dev)",
-		 "image":"https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt889512155f9af95e/5f596e8e806bc7495596d895/04_Zac_RESIZED.jpg",
+		 "name":"Odyssey Twisted Fate",
+		 "image":"https://1.bp.blogspot.com/-g8SqXqvQE20/X3N0fJoVueI/AAAAAAABs6o/7Lz5zW8h2DsCgPlgLFmFUla4yrTRTO4QACLcBGAsYHQ/s2048/EjGVQkZWkAgYk5_.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		}
