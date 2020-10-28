@@ -2,32 +2,68 @@
 {
 	sales:[		
 		{
-		 "name":"Hextech Kassadin",
-		 "image":"https://1.bp.blogspot.com/-4t0h66AwSWw/X3N0hjcWe3I/AAAAAAABs6s/iOUnBwO8esEoMdHnsK08vZ5CuVr2YYM0gCLcBGAsYHQ/s2048/LeagueOfLegends-20200929-134028-1310997890139996161-EjGZnicU0AEIoiQ.jpg",
+		 "name":"K/DA ALL OUT Seraphine",
+		 "image":"https://1.bp.blogspot.com/-pUelF8S22M8/X4X8EsbPt8I/AAAAAAABuAI/fHurSllhh_ENCYXG1Wkfq5_4p3ZNqkp6wCLcBGAsYHQ/s1215/SeraphineUltimate_Splash.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Pumpkin Prince Amumu",
-		 "image":"https://1.bp.blogspot.com/-UJSyFwY2ApY/X3N0iL28PmI/AAAAAAABs64/xwwmVaUBbJogIahT04-XLubFSO6podHbACLcBGAsYHQ/s2048/LeagueOfLegends-20200929-134113-1310998075691864064-EjGZtI8U8AYbrJI.jpg",
+		 "name":"K/DA ALL OUT Ahri",
+		 "image":"https://1.bp.blogspot.com/-NyO4-QZdxmM/X4X99BZ3keI/AAAAAAABuBw/qvYjmxTQNEELMHw02p-Rrme0MwB3FZR4QCLcBGAsYHQ/s2048/Ahri.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Bewitching Elise",
-		 "image":"https://1.bp.blogspot.com/-THqHeKbc8s4/X3N0hvQr7cI/AAAAAAABs6w/xyOR3qfP3nYNWlAiZgwGKjhLA0EcdbF1gCLcBGAsYHQ/s2048/LeagueOfLegends-20200929-134113-1310998075691864064-EjGZt8FU4AY-wqN.jpg",
+		 "name":"K/DA ALL OUT Akali",
+		 "image":"https://1.bp.blogspot.com/-1VhzaMeBQdo/X4X-BNQYP9I/AAAAAAABuB0/ouEW7u6goRgvGksju7uYN0ezp0o-x7wkgCLcBGAsYHQ/s2048/Akali.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Odyssey Kha'Zix",
-		 "image":"https://1.bp.blogspot.com/-kA_NOy0L160/X3N0hnimk4I/AAAAAAABs60/rJV2PN2i1godowAjW0eggtt8BcZatjsRwCLcBGAsYHQ/s2048/LeagueOfLegends-20200929-130545-1310989152867901440-EjGRpX0U4AAY8p4.jpg",
+		 "name":"K/DA ALL OUT Evelynn",
+		 "image":"https://1.bp.blogspot.com/-sYR10aEbBsY/X43hUUnIqRI/AAAAAAABu8k/P5lNBgcz-CgmShzJVwog1TipJIGbjYjwgCLcBGAsYHQ/s1215/28015.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		},
 		{
-		 "name":"Odyssey Twisted Fate",
-		 "image":"https://1.bp.blogspot.com/-g8SqXqvQE20/X3N0fJoVueI/AAAAAAABs6o/7Lz5zW8h2DsCgPlgLFmFUla4yrTRTO4QACLcBGAsYHQ/s2048/EjGVQkZWkAgYk5_.jpg",
+		 "name":"K/DA ALL OUT Kai'Sa",
+		 "image":"https://1.bp.blogspot.com/-7yDK_Goy4ss/X4X-K5NSo3I/AAAAAAABuCA/t4T3b6956NcL8LXHEaILRqMSjnwB-rE7gCLcBGAsYHQ/s2048/KaiSa.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Battlecast Nasus",
+		 "image":"https://1.bp.blogspot.com/-ofnI68r0nlU/X5hTa0RwBNI/AAAAAAABvZk/N-YSDMqhZh0Q6u-WoKiFV1It4kaFJeWgQCLcBGAsYHQ/s2048/LeagueOfLegends-20201027-130247-1321135267487465478-ElWdS6xUcAE7nz1.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Battlecast Zac",
+		 "image":"https://1.bp.blogspot.com/-mGYU-sihqeE/X5hTa7--MKI/AAAAAAABvZg/FKtl4SGuyOEIlQCL-7Mz-f7eZIDS048PQCLcBGAsYHQ/s2048/LeagueOfLegends-20201027-130302-1321135329638633472-ElWdk1mUYAUMQvH.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Resistance Yorick",
+		 "image":"https://1.bp.blogspot.com/-5hgxWJ8Qty4/X5hTbO_WU6I/AAAAAAABvZo/xWnPdHAoqLg_EHWDP0KHoNXwk-FLVNc5wCLcBGAsYHQ/s2048/LeagueOfLegends-20201027-130357-1321135557930405888-ElWdq8aVkAAMP5r.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Resistance Jayce",
+		 "image":"https://1.bp.blogspot.com/-ttr-P17_4-4/X5hTbeK_RzI/AAAAAAABvZs/LxmRN8WKTTs7aDE6XDWSs_7LFdrfRpklwCLcBGAsYHQ/s2048/LeagueOfLegends-20201027-130357-1321135557930405888-ElWdqAgUYAAHi-p.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Resistance Singed",
+		 "image":"https://1.bp.blogspot.com/-3H8LGtipDSI/X5hTbg3NQtI/AAAAAAABvZw/Lmc85GvN8_kUo6QYWxxmUV4GHQbzqcxKwCLcBGAsYHQ/s1215/LeagueOfLegends-20201027-130357-1321135557930405888-ElWdrVPU0AAzJi0.jpg",
+		 "oldprice":"",
+		 "newprice":""
+		},
+		{
+		 "name":"Victorious Lucian",
+		 "image":"https://1.bp.blogspot.com/-lvmmpgFqeQo/X5hVVhfCIwI/AAAAAAABvaw/qK4qEbKbn5M341PWIwCI0ZaYDaXX48pTACLcBGAsYHQ/s1215/LoLegendsBR-20201027-131148-1321137536069238786-ElWfhtSXUAAsvjV.jpg",
 		 "oldprice":"",
 		 "newprice":""
 		}
