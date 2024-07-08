@@ -1,4 +1,8 @@
 {
-  countryCode: "US",
-  countryNumericCode: 840
+  isSuccess: true,
+  error: "unknown",
+  countryConfig: {
+    countryCode: "US",
+    countryNumericCode: 840
+  }
 }
