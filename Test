@@ -1,4 +1,4 @@
 {
-  countryCode: US,
-  countryNumericCode: 840
+  "countryCode": "US",
+  "countryNumericCode": 840
 }
